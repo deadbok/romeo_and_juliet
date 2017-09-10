@@ -1,0 +1,5725 @@
+{
+    "'": {
+        "sweet": 1,
+        "that": 1
+    },
+    "'ay'": {
+        "and": 1
+    },
+    "'banished": {
+        "'": 1,
+        "'\n": 1
+    },
+    "'d": {
+        "cousin": 1,
+        "doves": 1,
+        "night": 1,
+        "raven": 1,
+        "time": 1
+    },
+    "'i": {
+        "'\n": 2
+    },
+    "'i'": {
+        "or": 2,
+        "shall": 1
+    },
+    "'it": {
+        "lightens": 1
+    },
+    "'juliet": {
+        "'\n": 1
+    },
+    "'no": {
+        "'\n": 1
+    },
+    "'promis'd": {
+        "to": 1
+    },
+    "'romeo": {
+        "is": 2
+    },
+    "'tis": {
+        "a": 1,
+        "almost": 1,
+        "but": 1,
+        "twenty": 1
+    },
+    "'twixt": {
+        "my": 1
+    },
+    "'tybalt": {
+        "is": 1
+    },
+    "'tybalt's": {
+        "dead": 1
+    },
+    "'your": {
+        "love": 1
+    },
+    "?": {
+        "'\n": 1,
+        "a": 1,
+        "answer": 1,
+        "be": 1,
+        "comfort": 1,
+        "go": 1,
+        "hast": 1,
+        "how": 1,
+        "i": 1,
+        "it": 3,
+        "mine": 1,
+        "o": 1,
+        "say": 1,
+        "that": 1,
+        "there's": 1,
+        "what": 1,
+        "who": 1,
+        "why": 2
+    },
+    "a": {
+        "ball": 1,
+        "beast": 1,
+        "beauteous": 1,
+        "capulet": 1,
+        "cave": 1,
+        "charnel": 1,
+        "club": 1,
+        "coil": 1,
+        "cup": 1,
+        "dagger": 1,
+        "damned": 1,
+        "dead": 1,
+        "face": 1,
+        "faint": 1,
+        "falconer's": 1,
+        "fearful": 1,
+        "feeling": 1,
+        "fiend\n": 1,
+        "flow'ring": 1,
+        "gorgeous": 1,
+        "highway": 1,
+        "holy": 1,
+        "hundred": 1,
+        "joyful": 1,
+        "kinsman": 1,
+        "little": 2,
+        "loathed": 1,
+        "love": 1,
+        "maid": 1,
+        "maiden": 1,
+        "man": 1,
+        "man\n": 1,
+        "minute": 1,
+        "montague": 2,
+        "month": 1,
+        "name": 1,
+        "needy": 1,
+        "new-made": 1,
+        "pair": 1,
+        "poison": 2,
+        "poor": 1,
+        "rapier's": 1,
+        "raven's": 1,
+        "rearward": 1,
+        "restorative": 1,
+        "rhyme": 1,
+        "rose\n": 1,
+        "silk": 1,
+        "subject": 1,
+        "thought": 1,
+        "thousand": 1,
+        "throne": 1,
+        "tomb": 1,
+        "torchbearer\n": 1,
+        "truth": 1,
+        "vault": 1,
+        "wagoner\n": 1,
+        "wanton's": 1,
+        "week": 1,
+        "wife": 1,
+        "winning": 1,
+        "wish": 1,
+        "word": 2
+    },
+    "above": {
+        "compare\n": 1
+    },
+    "absolv'd": {
+        "\n": 1
+    },
+    "act": {
+        "alone": 1
+    },
+    "acted": {
+        "simple": 1
+    },
+    "adieu": {
+        "\n": 1
+    },
+    "affections": {
+        "and": 1
+    },
+    "afford": {
+        "\n": 1
+    },
+    "affray": {
+        "\n": 1
+    },
+    "after": {
+        "?": 1
+    },
+    "again": {
+        "\n": 5,
+        "?\n": 1,
+        "behold": 1,
+        "exit": 1,
+        "to": 2
+    },
+    "agrees": {
+        "with": 1
+    },
+    "ah": {
+        "poor": 1
+    },
+    "air": {
+        "breathes": 1
+    },
+    "airy": {
+        "tongue": 1
+    },
+    "alack": {
+        "alack": 2,
+        "is": 1,
+        "that": 1
+    },
+    "all": {
+        "?\n": 1,
+        "and": 1,
+        "dead": 1,
+        "else": 1,
+        "in": 1,
+        "men": 1,
+        "my": 3,
+        "myself": 1,
+        "or": 1,
+        "slain": 1,
+        "the": 1,
+        "these": 1,
+        "this": 2
+    },
+    "almost": {
+        "freezes": 1,
+        "morning": 1
+    },
+    "alone": {
+        "\n": 2
+    },
+    "aloud": {
+        "else": 1
+    },
+    "although": {
+        "i": 1
+    },
+    "am": {
+        "enjoin'd\n": 1,
+        "ever": 1,
+        "gone": 1,
+        "here": 1,
+        "laid": 1,
+        "not": 2,
+        "sold": 1,
+        "sorry": 1,
+        "sure": 1,
+        "too": 2,
+        "where": 1
+    },
+    "amen": {
+        "\n": 1
+    },
+    "amorous": {
+        "rites\n": 1
+    },
+    "an": {
+        "'i'": 1,
+        "ancient": 1,
+        "honest": 1,
+        "honour": 1,
+        "honourable": 1,
+        "hour": 1,
+        "ill-divining": 1,
+        "impatient": 1,
+        "unstain'd": 1
+    },
+    "ancestors": {
+        "are": 1
+    },
+    "ancient": {
+        "damnation": 1,
+        "receptacle\n": 1
+    },
+    "and": {
+        "a": 1,
+        "all": 1,
+        "am": 1,
+        "art\n": 1,
+        "be": 1,
+        "bid": 1,
+        "bring": 1,
+        "cannot": 1,
+        "cut": 1,
+        "death": 1,
+        "ere": 1,
+        "father": 1,
+        "follow": 1,
+        "for": 1,
+        "from": 1,
+        "full": 1,
+        "gave": 1,
+        "give": 1,
+        "good": 1,
+        "hard": 1,
+        "he": 2,
+        "hide": 1,
+        "his": 1,
+        "i": 4,
+        "i'll": 3,
+        "in": 1,
+        "is": 1,
+        "joy": 1,
+        "known": 1,
+        "learn": 1,
+        "leave": 1,
+        "left": 1,
+        "let": 2,
+        "light": 2,
+        "loathed": 1,
+        "madly": 1,
+        "make": 1,
+        "may": 2,
+        "me": 1,
+        "my": 3,
+        "needly": 1,
+        "night": 1,
+        "not": 2,
+        "pale": 1,
+        "palm": 1,
+        "pay": 1,
+        "peter": 1,
+        "pluck": 1,
+        "refuse": 1,
+        "rest\n": 1,
+        "romeo": 1,
+        "romeo\n": 1,
+        "romeo's": 1,
+        "romeo-": 1,
+        "say": 1,
+        "shrieks": 1,
+        "stint": 1,
+        "strength": 1,
+        "tell": 1,
+        "that": 1,
+        "the": 1,
+        "there": 2,
+        "therefore": 2,
+        "thou": 1,
+        "though": 1,
+        "to": 1,
+        "tybalt's": 1,
+        "unpleasing": 1,
+        "unseen": 1,
+        "warm": 1,
+        "what": 2,
+        "when": 3,
+        "wherefore": 1,
+        "with": 2,
+        "yellow": 1,
+        "yet": 5,
+        "your": 1
+    },
+    "angelical": {
+        "\n": 1
+    },
+    "anon": {
+        "but": 1,
+        "good": 1
+    },
+    "another": {
+        "deed": 1,
+        "this": 1
+    },
+    "answer": {
+        "'i": 1,
+        "that": 1,
+        "to": 1
+    },
+    "any": {
+        "of": 1,
+        "other": 2
+    },
+    "apace": {
+        "you": 1
+    },
+    "arbitrating": {
+        "that\n": 1
+    },
+    "are": {
+        "beguil'd": 1,
+        "behooffull": 1,
+        "best": 1,
+        "but": 1,
+        "chain": 1,
+        "dry": 1,
+        "gone": 1,
+        "high": 1,
+        "infinite": 1,
+        "many": 1,
+        "news": 1,
+        "pack'd": 1,
+        "they": 1,
+        "warm": 1,
+        "you": 1
+    },
+    "arm": {
+        "from": 1,
+        "nor": 1,
+        "that": 1
+    },
+    "arms": {
+        "untalk'd": 1
+    },
+    "art": {
+        "\n": 1,
+        "below": 1,
+        "fickle": 1,
+        "not": 1,
+        "out": 1,
+        "thou": 6,
+        "thyself": 1
+    },
+    "as": {
+        "a": 1,
+        "are": 1,
+        "boundless": 1,
+        "deep": 1,
+        "in": 1,
+        "is": 1,
+        "lead": 1,
+        "much": 1,
+        "myself": 1,
+        "one": 1,
+        "phaeton": 1,
+        "sweet": 2,
+        "swift": 1,
+        "that": 1,
+        "the": 1,
+        "they": 2,
+        "with": 1,
+        "you": 1
+    },
+    "asham'd": {
+        "to": 1
+    },
+    "aside": {
+        "villain": 1
+    },
+    "ask": {
+        "his": 1
+    },
+    "asunder": {
+        "god": 1
+    },
+    "at": {
+        "all": 2,
+        "evening": 1,
+        "him": 1,
+        "laurence'": 1,
+        "leisure": 1,
+        "lovers'": 1,
+        "once": 1,
+        "some": 1,
+        "this": 1,
+        "thy": 1,
+        "what": 1
+    },
+    "attires": {
+        "are": 1
+    },
+    "away": {
+        "\n": 3
+    },
+    "ay": {
+        "madam": 1,
+        "me": 2,
+        "pilgrim": 1,
+        "those": 1
+    },
+    "back": {
+        "\n": 3,
+        "again": 3,
+        "foolish": 1,
+        "shadows": 1,
+        "than": 1,
+        "to": 1
+    },
+    "bad": {
+        "?": 1,
+        "?\n": 1,
+        "a": 1,
+        "enough": 1
+    },
+    "ball": {
+        "my": 1
+    },
+    "bandy": {
+        "her": 1
+    },
+    "banished": {
+        "'\n": 1
+    },
+    "banished'-": {
+        "to": 1
+    },
+    "banishment": {
+        "\n": 1
+    },
+    "bankrout": {
+        "break": 1
+    },
+    "bare": {
+        "vowel": 1
+    },
+    "bating": {
+        "in": 1
+    },
+    "battlements": {
+        "of": 1
+    },
+    "be": {
+        "\n": 2,
+        "?": 1,
+        "a": 3,
+        "absolv'd": 1,
+        "as": 1,
+        "be": 1,
+        "blind": 1,
+        "but": 1,
+        "crown'd\n": 1,
+        "dishonour'd\n": 1,
+        "distraught": 1,
+        "fickle": 1,
+        "frank": 1,
+        "gone": 4,
+        "honourable": 1,
+        "husband": 1,
+        "in": 1,
+        "left": 1,
+        "many": 1,
+        "married": 2,
+        "morrow": 1,
+        "much": 1,
+        "my": 1,
+        "not": 1,
+        "of": 2,
+        "perverse": 1,
+        "prevented": 1,
+        "rank'd": 1,
+        "roar'd": 1,
+        "romeo": 1,
+        "sad": 1,
+        "satisfied": 1,
+        "satisfied\n": 1,
+        "shall": 1,
+        "sir": 1,
+        "slain": 1,
+        "so": 2,
+        "some": 1,
+        "spent": 1,
+        "stifled": 1,
+        "strange": 1,
+        "such": 1,
+        "the": 1,
+        "thoughts": 1,
+        "thy": 1,
+        "to": 1,
+        "true": 1,
+        "twain": 1
+    },
+    "bear": {
+        "a": 1
+    },
+    "bears": {
+        "\n": 1
+    },
+    "beast": {
+        "was": 1
+    },
+    "beauteous": {
+        "flow'r": 1
+    },
+    "beauties": {
+        "or": 1
+    },
+    "beautiful": {
+        "tyrant": 1
+    },
+    "because": {
+        "he": 1
+    },
+    "becomed": {
+        "love": 1
+    },
+    "bed": {
+        "\n": 1,
+        "and": 1,
+        "but": 1
+    },
+    "been": {
+        "his": 1,
+        "more": 1,
+        "tried": 1
+    },
+    "before": {
+        "\n": 1,
+        "some": 1,
+        "the": 1,
+        "their": 1,
+        "thou": 1,
+        "to": 1
+    },
+    "beg": {
+        "your": 1
+    },
+    "beggars": {
+        "that": 1
+    },
+    "beguil'd": {
+        "\n": 1
+    },
+    "behests": {
+        "and": 1
+    },
+    "behind": {
+        "your": 1
+    },
+    "behold": {
+        "\n": 1,
+        "him-": 1,
+        "my": 1
+    },
+    "behooffull": {
+        "for": 1
+    },
+    "being": {
+        "spoke": 1
+    },
+    "believe": {
+        "me": 1,
+        "thee": 1
+    },
+    "belong": {
+        "to": 1
+    },
+    "belonging": {
+        "to": 1
+    },
+    "below": {
+        "\n": 1
+    },
+    "bent": {
+        "of": 1
+    },
+    "bepaint": {
+        "my": 1
+    },
+    "bescreen'd": {
+        "in": 1
+    },
+    "beseech": {
+        "thee-\n": 1,
+        "you": 2,
+        "your": 1
+    },
+    "best": {
+        "agrees": 1,
+        "but": 1
+    },
+    "bid": {
+        "him": 1,
+        "me": 3
+    },
+    "bier": {
+        "\n": 1
+    },
+    "bird": {
+        "\n": 1
+    },
+    "birth": {
+        "of": 1
+    },
+    "black": {
+        "\n": 1,
+        "mantle": 1
+    },
+    "black-brow": {
+        "'d": 1
+    },
+    "blind": {
+        "\n": 1
+    },
+    "blister'd": {
+        "be": 1
+    },
+    "blood": {
+        "\n": 1,
+        "?\n": 1,
+        "bating": 1
+    },
+    "bloody": {
+        "knife\n": 1,
+        "tybalt": 1
+    },
+    "blows": {
+        "so": 1
+    },
+    "blush": {
+        "bepaint": 1
+    },
+    "body": {
+        "that": 1
+    },
+    "bold": {
+        "\n": 1
+    },
+    "bondage": {
+        "is": 1
+    },
+    "bones": {
+        "\n": 1,
+        "and": 1
+    },
+    "book": {
+        "\n": 1,
+        "containing": 1
+    },
+    "bore": {
+        "my": 1
+    },
+    "born": {
+        "to": 1
+    },
+    "bosom": {
+        "henceforth": 1
+    },
+    "both": {
+        "\n": 2,
+        "are": 1,
+        "you": 1
+    },
+    "bottom": {
+        "of": 2
+    },
+    "bought": {
+        "the": 1
+    },
+    "bound": {
+        "\n": 1,
+        "?": 1
+    },
+    "boundless": {
+        "as": 1
+    },
+    "bounds": {
+        "of": 1
+    },
+    "bounty": {
+        "is": 1
+    },
+    "bower": {
+        "the": 1
+    },
+    "brags": {
+        "of": 1
+    },
+    "brains": {
+        "?\n": 1
+    },
+    "break": {
+        "at": 1,
+        "my": 1
+    },
+    "breast": {
+        "\n": 1
+    },
+    "breath": {
+        "\n": 1,
+        "?\n": 1,
+        "when": 1
+    },
+    "breathes": {
+        "in": 1
+    },
+    "bridal": {
+        "bed\n": 1
+    },
+    "bride": {
+        "\n": 1
+    },
+    "brief": {
+        "sounds": 1
+    },
+    "bring": {
+        "\n": 1,
+        "in": 1
+    },
+    "brow": {
+        "shame": 1
+    },
+    "bud": {
+        "of": 1
+    },
+    "buried": {
+        "ancestors": 1
+    },
+    "business": {
+        "\n": 1
+    },
+    "but": {
+        "'i": 1,
+        "a": 2,
+        "all": 1,
+        "beggars": 1,
+        "call": 1,
+        "else": 1,
+        "ever": 1,
+        "farewell": 1,
+        "for": 1,
+        "gentle": 1,
+        "green": 1,
+        "i": 2,
+        "if": 1,
+        "my": 1,
+        "no": 1,
+        "not": 1,
+        "o": 1,
+        "old": 1,
+        "send": 1,
+        "sworn": 1,
+        "thankful": 2,
+        "that": 1,
+        "thy": 1,
+        "to": 2,
+        "trust": 1,
+        "wherefore": 1,
+        "with": 1
+    },
+    "by": {
+        "any": 1,
+        "holy": 1,
+        "leaving": 1,
+        "one": 1,
+        "playing": 1,
+        "saint": 1,
+        "summer's": 1,
+        "th'": 1,
+        "that": 1,
+        "the": 1,
+        "thee": 1,
+        "their": 1,
+        "this": 1,
+        "thy": 1,
+        "whose": 1,
+        "you": 1
+    },
+    "by-and-by": {
+        "i": 1
+    },
+    "call": {
+        "a": 1,
+        "my": 1,
+        "thee": 2,
+        "them": 1
+    },
+    "call'd": {
+        "\n": 1
+    },
+    "calls": {
+        "?": 1,
+        "?\n": 1,
+        "within": 2
+    },
+    "cam'st": {
+        "thou": 1
+    },
+    "can": {
+        "count": 1,
+        "heaven": 1,
+        "i": 1,
+        "say": 1,
+        "see": 1,
+        "that": 1
+    },
+    "cannot": {
+        "choose": 1,
+        "come": 1,
+        "meet": 1,
+        "sum": 1
+    },
+    "canst": {
+        "give": 1,
+        "thou": 1
+    },
+    "capulet": {
+        "\n": 1
+    },
+    "cast": {
+        "me": 1
+    },
+    "cause": {
+        "procures": 1
+    },
+    "cave": {
+        "?\n": 1,
+        "where": 1
+    },
+    "cease": {
+        "thy": 1,
+        "to": 1
+    },
+    "cell": {
+        "\n": 1
+    },
+    "chain": {
+        "me": 1
+    },
+    "chang'd": {
+        "eyes": 1,
+        "voices": 1
+    },
+    "changes": {
+        "in": 1
+    },
+    "chapless": {
+        "skulls": 1
+    },
+    "charnel": {
+        "house": 1
+    },
+    "cheeks": {
+        "\n": 1
+    },
+    "cherishing": {
+        "\n": 1
+    },
+    "chide": {
+        "at": 1
+    },
+    "child": {
+        "that": 1
+    },
+    "choose": {
+        "but": 1
+    },
+    "church": {
+        "and": 1
+    },
+    "churl": {
+        "drunk": 1
+    },
+    "circled": {
+        "orb": 1
+    },
+    "circumstance": {
+        "\n": 1
+    },
+    "civil": {
+        "night": 1
+    },
+    "climb": {
+        "\n": 1
+    },
+    "clock": {
+        "struck": 1
+    },
+    "clos'd": {
+        "in": 1
+    },
+    "close": {
+        "curtain": 1
+    },
+    "cloudy": {
+        "night": 1
+    },
+    "club": {
+        "dash": 1
+    },
+    "cockatrice": {
+        "\n": 1
+    },
+    "coil": {
+        "come": 1
+    },
+    "cold": {
+        "fear": 1
+    },
+    "come": {
+        "\n": 1,
+        "again": 1,
+        "anon": 1,
+        "civil": 1,
+        "cords": 1,
+        "gentle": 1,
+        "hither": 1,
+        "i": 1,
+        "loving": 1,
+        "night": 1,
+        "nurse": 1,
+        "romeo": 1,
+        "this": 1,
+        "thou": 1,
+        "to": 7,
+        "vial": 1,
+        "weep": 1,
+        "what": 1
+    },
+    "comes": {
+        "?\n": 1,
+        "my": 1,
+        "to": 1,
+        "well": 1
+    },
+    "comfort": {
+        "me": 2,
+        "nurse": 1,
+        "wherefore": 1
+    },
+    "comfortable": {
+        "friar": 1
+    },
+    "comforted": {
+        "me": 1
+    },
+    "commission": {
+        "of": 1
+    },
+    "company": {
+        "\n": 1
+    },
+    "compliment": {
+        "\n": 1
+    },
+    "conceit": {
+        "more": 1,
+        "of": 1
+    },
+    "confess": {
+        "\n": 1,
+        "to": 2
+    },
+    "confession": {
+        "and": 1
+    },
+    "confessor": {
+        "\n": 1
+    },
+    "consent": {
+        "gives": 1
+    },
+    "considering": {
+        "who": 1
+    },
+    "containing": {
+        "such": 1
+    },
+    "contract": {
+        "to-night": 1
+    },
+    "contrary": {
+        "?\n": 1
+    },
+    "cords": {
+        "come": 1,
+        "poor": 1
+    },
+    "could": {
+        "find": 1,
+        "to": 1
+    },
+    "counsel": {
+        "?\n": 1,
+        "me": 1,
+        "or": 1
+    },
+    "counsellor": {
+        "\n": 1
+    },
+    "count": {
+        "i": 1,
+        "their": 1
+    },
+    "cousin": {
+        "?\n": 1,
+        "and": 1,
+        "tybalt\n": 1,
+        "would": 1
+    },
+    "cousin's": {
+        "death": 1,
+        "ghost\n": 1
+    },
+    "cross": {
+        "and": 1
+    },
+    "cull'd": {
+        "such": 1
+    },
+    "cunning": {
+        "to": 1
+    },
+    "cup": {
+        "clos'd": 1
+    },
+    "cupid": {
+        "wings": 1
+    },
+    "cure": {
+        "past": 1
+    },
+    "curtain": {
+        "love-performing": 1
+    },
+    "cut": {
+        "him": 1
+    },
+    "dagger": {
+        "\n": 1
+    },
+    "damnation": {
+        "o": 1
+    },
+    "damned": {
+        "guilty": 1,
+        "saint": 1
+    },
+    "danc'd": {
+        "withal": 1
+    },
+    "dance": {
+        "?\n": 1
+    },
+    "dark": {
+        "night": 1
+    },
+    "dash": {
+        "out": 1
+    },
+    "day": {
+        "\n": 2,
+        "in": 3,
+        "is": 1
+    },
+    "day's": {
+        "journey": 1
+    },
+    "daylight": {
+        "i": 1
+    },
+    "days": {
+        "\n": 1
+    },
+    "dead": {
+        "\n": 1,
+        "'\n": 1,
+        "'romeo": 1,
+        "?\n": 1,
+        "and": 1,
+        "in": 1,
+        "man": 1,
+        "men's": 1,
+        "that": 1
+    },
+    "dear": {
+        "father": 1,
+        "love": 1,
+        "perfection": 1,
+        "romeo": 1
+    },
+    "dear-lov": {
+        "'d": 1
+    },
+    "dearer": {
+        "lord": 1
+    },
+    "death": {
+        "\n": 3,
+        "and": 1,
+        "considering": 1,
+        "no": 1,
+        "not": 1
+    },
+    "death-darting": {
+        "eye": 1
+    },
+    "deceit": {
+        "should": 1
+    },
+    "deed": {
+        "\n": 1
+    },
+    "deeds": {
+        "to": 1
+    },
+    "deep": {
+        "the": 1,
+        "will": 1
+    },
+    "delay": {
+        "this": 1
+    },
+    "delights": {
+        "in": 1
+    },
+    "deny": {
+        "thy": 1
+    },
+    "desp'rate": {
+        "brains": 1
+    },
+    "despised": {
+        "substance": 1
+    },
+    "determine": {
+        "of": 1
+    },
+    "devil": {
+        "art": 1
+    },
+    "devotion": {
+        "shows": 1
+    },
+    "did": {
+        "call": 1,
+        "ever": 1,
+        "i": 1,
+        "romeo's": 1,
+        "send": 1,
+        "spit": 1
+    },
+    "didst": {
+        "bower": 1,
+        "request": 1,
+        "thou": 1
+    },
+    "die": {
+        "\n": 1,
+        "exit": 1,
+        "maiden-widowed": 1,
+        "strangled": 1,
+        "with": 1
+    },
+    "dim": {
+        "monument": 1
+    },
+    "direction": {
+        "found'st": 1
+    },
+    "discords": {
+        "and": 1
+    },
+    "discovered": {
+        "\n": 1
+    },
+    "dismal": {
+        "hell": 1,
+        "scene": 1
+    },
+    "disobedient": {
+        "opposition\n": 1
+    },
+    "displeas'd": {
+        "my": 1
+    },
+    "dispraise": {
+        "my": 1
+    },
+    "distraught": {
+        "\n": 1
+    },
+    "divideth": {
+        "us": 1
+    },
+    "divinest": {
+        "show": 1
+    },
+    "division": {
+        "this": 1
+    },
+    "do": {
+        "beseech": 1,
+        "here": 1,
+        "i": 2,
+        "in": 1,
+        "it": 1,
+        "nimble-pinion": 1,
+        "not": 5,
+        "remember": 1,
+        "see": 1,
+        "so": 1,
+        "their": 1,
+        "thou": 1,
+        "touch": 1,
+        "with": 1,
+        "wrong": 1
+    },
+    "doff": {
+        "thy": 1
+    },
+    "done": {
+        "so": 1
+    },
+    "doom": {
+        "\n": 1
+    },
+    "door": {
+        "?\n": 1,
+        "and": 1
+    },
+    "dost": {
+        "excuse": 1,
+        "love": 1,
+        "make": 1,
+        "thou": 3,
+        "torment": 1
+    },
+    "doth": {
+        "cease": 1,
+        "grieve": 1,
+        "hang": 1,
+        "not": 1,
+        "us": 1
+    },
+    "doubt": {
+        "\n": 1
+    },
+    "dove-feather": {
+        "'d": 1
+    },
+    "doves": {
+        "draw": 1
+    },
+    "down": {
+        "a": 1,
+        "so": 1
+    },
+    "dragon": {
+        "keep": 1
+    },
+    "draw": {
+        "love": 1
+    },
+    "dreadful": {
+        "trumpet": 1
+    },
+    "dream": {
+        "not": 1
+    },
+    "drink": {
+        "to": 1
+    },
+    "driving": {
+        "back": 1
+    },
+    "drops": {
+        "belong": 1
+    },
+    "drunk": {
+        "a": 1,
+        "all": 1
+    },
+    "dry": {
+        "for": 1
+    },
+    "dwell": {
+        "on": 1
+    },
+    "ear": {
+        "\n": 1
+    },
+    "early": {
+        "?\n": 1,
+        "seen": 1,
+        "waking-": 1
+    },
+    "ears": {
+        "have": 1
+    },
+    "earth": {
+        "\n": 3,
+        "?": 1,
+        "my": 1,
+        "resign": 1,
+        "to": 1
+    },
+    "echo": {
+        "lies": 1
+    },
+    "either": {
+        "and": 1,
+        "my": 1
+    },
+    "else": {
+        "fail": 1,
+        "is": 1,
+        "not": 1,
+        "would": 2
+    },
+    "empire": {
+        "arbitrating": 1
+    },
+    "end": {
+        "\n": 1,
+        "motion": 1,
+        "no": 1
+    },
+    "endart": {
+        "mine": 1
+    },
+    "ended": {
+        "there": 1
+    },
+    "enemy": {
+        "\n": 2
+    },
+    "enjoy'd": {
+        "so": 1
+    },
+    "enough": {
+        "before": 1,
+        "if": 1
+    },
+    "entertain": {
+        "so": 1
+    },
+    "envious": {
+        "?\n": 1
+    },
+    "environed": {
+        "with": 1
+    },
+    "ere": {
+        "he": 1,
+        "i": 2,
+        "my": 1,
+        "one": 1,
+        "this": 1
+    },
+    "even": {
+        "for": 1,
+        "now\n": 1,
+        "to": 1
+    },
+    "evening": {
+        "mass\n": 1
+    },
+    "ever": {
+        "book": 1,
+        "dragon": 1,
+        "meet": 1,
+        "rul'd": 1,
+        "weep": 1
+    },
+    "every": {
+        "day": 1
+    },
+    "excuse": {
+        "\n": 1,
+        "that": 1
+    },
+    "exeunt": {
+        "\n": 3
+    },
+    "exil'd": {
+        "\n": 1
+    },
+    "exit": {
+        "\n": 2,
+        "art": 1,
+        "friar": 1,
+        "the": 1,
+        "three": 1
+    },
+    "extremes": {
+        "and": 1
+    },
+    "eye": {
+        "of": 1
+    },
+    "eyes": {
+        "may": 1,
+        "ne'er": 1,
+        "o": 1,
+        "shut": 1
+    },
+    "eyesight": {
+        "fails": 1
+    },
+    "face": {
+        "\n": 4,
+        "else": 1,
+        "nor": 1,
+        "of": 1
+    },
+    "fail": {
+        "'tis": 1,
+        "myself": 1
+    },
+    "fails": {
+        "or": 1
+    },
+    "fain": {
+        "but": 1,
+        "deny\n": 1,
+        "fain": 1,
+        "would": 1
+    },
+    "faint": {
+        "cold": 1
+    },
+    "fair": {
+        "a": 1,
+        "montague": 1
+    },
+    "fairly": {
+        "bound": 1
+    },
+    "faith": {
+        "?": 1,
+        "i": 1,
+        "in": 1,
+        "return": 1
+    },
+    "faithfully": {
+        "\n": 1
+    },
+    "falconer's": {
+        "voice\n": 1
+    },
+    "fall": {
+        "prostrate": 1
+    },
+    "false": {
+        "at": 1
+    },
+    "farewell": {
+        "\n": 2,
+        "compliment": 1,
+        "dear": 1,
+        "god": 1
+    },
+    "farther": {
+        "than": 1
+    },
+    "faster": {
+        "glide": 1
+    },
+    "father": {
+        "\n": 1,
+        "and": 2,
+        "i": 1,
+        "madam": 1,
+        "mother": 1,
+        "now": 1,
+        "or": 1,
+        "to": 1
+    },
+    "fear": {
+        "\n": 1,
+        "it": 1,
+        "or": 1,
+        "thrills": 1
+    },
+    "fearful": {
+        "hollow": 1,
+        "point": 1
+    },
+    "fears": {
+        "\n": 1
+    },
+    "feeling": {
+        "loss": 1,
+        "so": 1
+    },
+    "feign": {
+        "as": 1
+    },
+    "fest'ring": {
+        "in": 1
+    },
+    "fickle": {
+        "\n": 1,
+        "fortune": 1,
+        "what": 1
+    },
+    "fiend": {
+        "\n": 1,
+        "angelical": 1
+    },
+    "fiery-footed": {
+        "steeds": 1
+    },
+    "find": {
+        "him": 1,
+        "out": 1,
+        "thee": 1
+    },
+    "fit": {
+        "to": 1
+    },
+    "flesh": {
+        "?\n": 1
+    },
+    "flow'r": {
+        "when": 1
+    },
+    "flow'ring": {
+        "face": 1
+    },
+    "fly": {
+        "\n": 1
+    },
+    "folks": {
+        "many": 1
+    },
+    "follow": {
+        "thee": 1
+    },
+    "followed": {
+        "not": 1
+    },
+    "following": {
+        "tybalt's": 1
+    },
+    "follows": {
+        "there": 1
+    },
+    "fond": {
+        "\n": 1
+    },
+    "foolish": {
+        "tears": 1
+    },
+    "foot": {
+        "\n": 1,
+        "i'll": 1
+    },
+    "for": {
+        "'tis": 1,
+        "a": 5,
+        "both": 1,
+        "faith": 1,
+        "hate": 1,
+        "he": 1,
+        "i": 3,
+        "in": 1,
+        "it": 2,
+        "our": 1,
+        "prayers'": 1,
+        "romeo": 1,
+        "romeo's": 1,
+        "saints": 1,
+        "she": 1,
+        "such": 2,
+        "that": 2,
+        "the": 3,
+        "then": 1,
+        "this": 1,
+        "thou": 1,
+        "who": 1
+    },
+    "forbid": {
+        "it": 1
+    },
+    "forefathers'": {
+        "joints": 1
+    },
+    "forget": {
+        "it": 1,
+        "to": 1
+    },
+    "forgot": {
+        "why": 1
+    },
+    "form-": {
+        "fain": 1
+    },
+    "forsworn": {
+        "\n": 1
+    },
+    "fortune": {
+        "\n": 1,
+        "all": 1,
+        "fortune": 1,
+        "honest": 1
+    },
+    "fortunes": {
+        "at": 1
+    },
+    "foul": {
+        "mouth": 1
+    },
+    "found'st": {
+        "thou": 1
+    },
+    "frank": {
+        "and": 1
+    },
+    "freezes": {
+        "up": 1
+    },
+    "friar": {
+        "\n": 1,
+        "that": 1,
+        "to": 1,
+        "where": 1
+    },
+    "friend": {
+        "\n": 1,
+        "?\n": 1
+    },
+    "friendly": {
+        "drop\n": 1
+    },
+    "from": {
+        "arm": 1,
+        "heaven\n": 1,
+        "her": 1,
+        "his": 1,
+        "my": 1,
+        "nine": 1,
+        "off": 1,
+        "the": 1,
+        "thee": 1,
+        "thy": 1
+    },
+    "frown": {
+        "and": 1
+    },
+    "full": {
+        "all\n": 1,
+        "of": 1
+    },
+    "furnish": {
+        "me": 1
+    },
+    "gallop": {
+        "apace": 1
+    },
+    "garish": {
+        "sun": 1
+    },
+    "gave": {
+        "him": 1,
+        "thee": 1
+    },
+    "general": {
+        "doom": 1
+    },
+    "gentle": {
+        "night": 1,
+        "nurse": 1,
+        "romeo": 1
+    },
+    "gentleman": {
+        "\n": 1,
+        "?\n": 1,
+        "i'll": 1
+    },
+    "get": {
+        "thee": 1
+    },
+    "ghostly": {
+        "confessor": 1
+    },
+    "give": {
+        "again": 1,
+        "it": 1,
+        "me": 5,
+        "no": 1,
+        "this": 1,
+        "to": 1
+    },
+    "gives": {
+        "strength": 1
+    },
+    "glide": {
+        "than": 1
+    },
+    "go": {
+        "ask": 1,
+        "counsellor": 1,
+        "get": 1,
+        "in": 1,
+        "into": 1,
+        "with": 1
+    },
+    "god": {
+        "did": 1,
+        "i": 1,
+        "join'd": 1,
+        "knows": 1,
+        "o": 1,
+        "of": 1,
+        "pardon": 1
+    },
+    "going": {
+        "out": 1
+    },
+    "gone": {
+        "\n": 2,
+        "?": 1,
+        "?\n": 1,
+        "away": 1,
+        "more": 1,
+        "so": 1
+    },
+    "good": {
+        "even": 1,
+        "father": 1,
+        "good": 1,
+        "night": 8,
+        "nurse": 2,
+        "or": 2,
+        "pilgrim": 1,
+        "sweet": 1,
+        "thou": 1
+    },
+    "gorgeous": {
+        "palace": 1
+    },
+    "got": {
+        "small": 1
+    },
+    "gracious": {
+        "self": 1
+    },
+    "grant": {
+        "for": 1
+    },
+    "grave": {
+        "is": 1
+    },
+    "great": {
+        "kinsman's": 1
+    },
+    "green": {
+        "in": 1
+    },
+    "grief": {
+        "\n": 1,
+        "?\n": 1
+    },
+    "griefs": {
+        "\n": 1
+    },
+    "grieve": {
+        "my": 1
+    },
+    "grown": {
+        "bold": 1,
+        "to": 1
+    },
+    "grows": {
+        "\n": 1
+    },
+    "guilty": {
+        "deeds": 1
+    },
+    "gyves": {
+        "\n": 1
+    },
+    "had": {
+        "chang'd": 1,
+        "ended": 1,
+        "she": 1
+    },
+    "hadst": {
+        "my": 1,
+        "thou": 1
+    },
+    "half": {
+        "an": 1,
+        "my": 1
+    },
+    "hand": {
+        "\n": 1,
+        "?\n": 1,
+        "by": 1,
+        "nor": 1,
+        "shed": 1,
+        "too": 1
+    },
+    "hands": {
+        "\n": 1,
+        "and": 1,
+        "do": 1,
+        "full": 1,
+        "that": 1
+    },
+    "hang": {
+        "on": 1
+    },
+    "haply": {
+        "some": 1
+    },
+    "happy": {
+        "time": 1
+    },
+    "hard": {
+        "to": 1
+    },
+    "harsh": {
+        "discords": 1
+    },
+    "hast": {
+        "breath\n": 1,
+        "comforted": 1,
+        "done": 1,
+        "heard": 1,
+        "thou": 1
+    },
+    "haste": {
+        "that": 1
+    },
+    "hate": {
+        "\n": 3,
+        "that": 1
+    },
+    "hath": {
+        "been": 1,
+        "minist'red": 1,
+        "new": 1,
+        "prais'd": 1,
+        "romeo": 1,
+        "slain": 1,
+        "slaughter'd": 1,
+        "so": 1,
+        "still": 1,
+        "the": 1
+    },
+    "have": {
+        "\n": 3,
+        "a": 1,
+        "an": 1,
+        "been": 1,
+        "bought": 1,
+        "but": 1,
+        "cull'd": 1,
+        "for": 1,
+        "forgot": 1,
+        "got": 1,
+        "hands": 1,
+        "kill'd": 1,
+        "learnt": 1,
+        "made": 1,
+        "mangled": 1,
+        "me": 1,
+        "more": 1,
+        "mov'd": 1,
+        "my": 1,
+        "need": 1,
+        "no": 1,
+        "power": 1,
+        "slain": 2,
+        "spoke": 1,
+        "thee": 2,
+        "to-night": 1,
+        "took": 1,
+        "yet": 1,
+        "your": 1
+    },
+    "having": {
+        "displeas'd": 1
+    },
+    "haviour": {
+        "light": 1
+    },
+    "he": {
+        "be": 2,
+        "doth": 1,
+        "hath": 1,
+        "made": 1,
+        "married": 1,
+        "not": 1,
+        "of": 1,
+        "owes\n": 1,
+        "shall": 2,
+        "should": 1,
+        "that": 3,
+        "was": 1,
+        "will": 1
+    },
+    "healthsome": {
+        "air": 1
+    },
+    "hear": {
+        "from": 1,
+        "him": 1,
+        "me": 1,
+        "some": 1,
+        "them": 1
+    },
+    "hear'st": {
+        "of": 1
+    },
+    "heard": {
+        "me": 1
+    },
+    "hearing": {
+        "them": 1
+    },
+    "heart": {
+        "\n": 1,
+        "?\n": 1,
+        "abhors\n": 1,
+        "and": 2,
+        "as": 1,
+        "hid": 1,
+        "poor": 1,
+        "so": 1,
+        "with": 1
+    },
+    "heat": {
+        "of": 1
+    },
+    "heaven": {
+        "\n": 1,
+        "be": 1,
+        "should": 1,
+        "so": 1
+    },
+    "heavens": {
+        "to": 1
+    },
+    "heavy": {
+        "and": 1,
+        "bier": 1
+    },
+    "hell": {
+        "\n": 1
+    },
+    "help": {
+        "\n": 2,
+        "afford": 1,
+        "it": 1,
+        "me": 2
+    },
+    "hence": {
+        "be": 1,
+        "for": 1,
+        "with": 1
+    },
+    "henceforth": {
+        "shall": 1
+    },
+    "henceforward": {
+        "i": 1
+    },
+    "her": {
+        "airy": 1,
+        "circled": 1,
+        "hand": 1,
+        "hither": 1,
+        "to": 1
+    },
+    "heralds": {
+        "should": 1
+    },
+    "here": {
+        "\n": 4,
+        "?": 1,
+        "?\n": 1,
+        "comes": 1
+    },
+    "here's": {
+        "such": 1
+    },
+    "hid": {
+        "with": 1
+    },
+    "hide": {
+        "me": 1
+    },
+    "hideous": {
+        "fears": 1
+    },
+    "hie": {
+        "hence": 1,
+        "to": 1
+    },
+    "high": {
+        "and": 1,
+        "fortune": 1
+    },
+    "highmost": {
+        "hill\n": 1
+    },
+    "highway": {
+        "to": 1
+    },
+    "hills": {
+        "\n": 1
+    },
+    "him": {
+        "\n": 4,
+        "and": 1,
+        "back": 1,
+        "come": 1,
+        "else": 1,
+        "give": 1,
+        "i": 1,
+        "long\n": 1,
+        "nam'd": 1,
+        "out": 1,
+        "that": 1,
+        "that's": 1,
+        "thy": 1,
+        "what": 1,
+        "with": 1
+    },
+    "him-": {
+        "dead-\n": 1
+    },
+    "himself": {
+        "?": 1
+    },
+    "his": {
+        "body": 1,
+        "body\n": 1,
+        "brow": 1,
+        "last": 1,
+        "liberty": 1,
+        "name": 1,
+        "remedy": 1,
+        "shroud": 2,
+        "shroud-\n": 1,
+        "substance": 1,
+        "thanks": 1,
+        "timeless": 1,
+        "to": 1,
+        "twisted": 1,
+        "wounds": 1
+    },
+    "hist": {
+        "o": 1,
+        "romeo": 1
+    },
+    "hither": {
+        "?\n": 1,
+        "nurse": 1,
+        "tell": 1
+    },
+    "hoarse": {
+        "and": 1,
+        "than": 1
+    },
+    "hollow": {
+        "of": 1
+    },
+    "holy": {
+        "father": 1,
+        "laurence": 1,
+        "man": 1,
+        "palmers'": 1
+    },
+    "honest": {
+        "gentleman": 1,
+        "nurse": 1
+    },
+    "honour": {
+        "bring": 1,
+        "may": 1,
+        "that": 1
+    },
+    "honourable": {
+        "\n": 1,
+        "villain": 1
+    },
+    "hood": {
+        "my": 1
+    },
+    "hop": {
+        "a": 1
+    },
+    "hope": {
+        "past": 1,
+        "thou": 1
+    },
+    "horrible": {
+        "conceit": 1
+    },
+    "hour": {
+        "\n": 1,
+        "she": 1
+    },
+    "hours": {
+        "in": 1,
+        "yet": 1
+    },
+    "house": {
+        "\n": 1
+    },
+    "how": {
+        "art": 1,
+        "cam'st": 1,
+        "i": 2,
+        "if": 1,
+        "my": 1,
+        "now": 1,
+        "oddly": 1,
+        "shall": 2,
+        "to": 1
+    },
+    "hundred": {
+        "words\n": 1,
+        "years": 1
+    },
+    "hunt's-up": {
+        "to": 1
+    },
+    "hunting": {
+        "thee": 1
+    },
+    "husband": {
+        "\n": 2,
+        "?\n": 1,
+        "comes": 1,
+        "is": 1,
+        "lives": 1,
+        "send": 1
+    },
+    "i": {
+        "\n": 4,
+        "a": 1,
+        "again": 1,
+        "am": 12,
+        "be": 1,
+        "behold": 1,
+        "beseech": 3,
+        "bore": 1,
+        "cannot": 1,
+        "come": 4,
+        "danc'd": 1,
+        "did": 2,
+        "do": 5,
+        "dream": 1,
+        "drink": 1,
+        "dwell": 1,
+        "endart": 1,
+        "fear": 1,
+        "for": 1,
+        "gave": 1,
+        "give": 1,
+        "hate": 2,
+        "have": 11,
+        "hear": 1,
+        "hope": 1,
+        "if": 1,
+        "joy": 1,
+        "know": 4,
+        "learnt": 1,
+        "live": 1,
+        "long": 1,
+        "love": 2,
+        "may": 2,
+        "met": 1,
+        "might": 2,
+        "must": 4,
+        "needs": 1,
+        "never": 2,
+        "not": 2,
+        "pray": 4,
+        "see": 3,
+        "send": 2,
+        "shall": 3,
+        "should": 4,
+        "spake": 2,
+        "speak": 1,
+        "swear\n": 1,
+        "tear": 1,
+        "then": 1,
+        "thy": 2,
+        "to": 1,
+        "wake": 2,
+        "was": 1,
+        "will": 9,
+        "wish": 1,
+        "wonder": 1,
+        "would": 7
+    },
+    "i'": {
+        "faith": 1
+    },
+    "i'll": {
+        "believe": 1,
+        "call": 1,
+        "frown": 1,
+        "help": 1,
+        "lay\n": 1,
+        "look": 1,
+        "no": 1,
+        "procure": 1,
+        "prove": 1,
+        "stay": 1,
+        "to": 2
+    },
+    "idolatry": {
+        "\n": 1
+    },
+    "if": {
+        "all": 1,
+        "any": 1,
+        "be": 1,
+        "good": 1,
+        "he": 1,
+        "i": 3,
+        "in": 1,
+        "it": 2,
+        "looking": 1,
+        "love": 1,
+        "not": 1,
+        "sour": 1,
+        "that": 1,
+        "there": 1,
+        "they": 1,
+        "this": 1,
+        "those": 1,
+        "thou": 7,
+        "what": 1,
+        "when": 1,
+        "you": 2
+    },
+    "ill": {
+        "of": 1
+    },
+    "ill-divining": {
+        "soul": 1
+    },
+    "immediately": {
+        "\n": 1
+    },
+    "impatient": {
+        "child": 1
+    },
+    "impute": {
+        "this": 1
+    },
+    "in": {
+        "\n": 1,
+        "a": 4,
+        "and": 2,
+        "black": 1,
+        "cloudy": 1,
+        "dismal": 1,
+        "earth": 1,
+        "fellowship\n": 1,
+        "half": 1,
+        "happy": 1,
+        "heaven": 1,
+        "hell\n": 1,
+        "her": 1,
+        "his": 3,
+        "little": 1,
+        "love": 1,
+        "matter": 1,
+        "mortal": 1,
+        "motion": 1,
+        "my": 2,
+        "night": 2,
+        "pray'r": 1,
+        "quiet": 1,
+        "such": 2,
+        "that": 2,
+        "the": 5,
+        "thee": 1,
+        "thievish": 1,
+        "this": 5,
+        "thy": 1,
+        "truth": 1,
+        "words": 1,
+        "years\n": 1
+    },
+    "inconstant": {
+        "moon": 1
+    },
+    "indeed": {
+        "\n": 2,
+        "i": 1
+    },
+    "infinite": {
+        "\n": 1
+    },
+    "into": {
+        "a": 1,
+        "my": 1,
+        "the": 2
+    },
+    "is": {
+        "a": 1,
+        "an": 1,
+        "and": 1,
+        "as": 1,
+        "asham'd": 1,
+        "banished'-": 1,
+        "banished'-\n": 1,
+        "comfort": 1,
+        "cross": 1,
+        "dead": 1,
+        "exil'd": 1,
+        "father": 1,
+        "going": 1,
+        "grown": 1,
+        "hie": 1,
+        "his": 1,
+        "hoarse": 1,
+        "holy": 1,
+        "it": 4,
+        "lame": 1,
+        "like": 1,
+        "living": 1,
+        "longer": 1,
+        "meant": 1,
+        "my": 8,
+        "no": 3,
+        "nor": 1,
+        "not": 4,
+        "on": 2,
+        "renown'd": 1,
+        "romeo": 1,
+        "she": 1,
+        "some": 1,
+        "such": 1,
+        "that": 1,
+        "the": 4,
+        "there": 1,
+        "this": 2,
+        "three": 1,
+        "thy": 1,
+        "to": 1,
+        "too": 1,
+        "tybalt": 1,
+        "within": 1,
+        "yond": 1,
+        "your": 2
+    },
+    "is't": {
+        "good": 1,
+        "that": 1
+    },
+    "issue": {
+        "of": 1
+    },
+    "it": {
+        "\n": 1,
+        "?\n": 1,
+        "and": 2,
+        "back": 1,
+        "be": 2,
+        "best": 1,
+        "fain": 1,
+        "faithfully": 1,
+        "fly": 1,
+        "grows": 1,
+        "had": 1,
+        "hop": 1,
+        "i": 1,
+        "is": 12,
+        "lie": 1,
+        "may": 1,
+        "me": 1,
+        "more": 1,
+        "not": 2,
+        "presently": 1,
+        "presses": 1,
+        "shall": 1,
+        "should": 1,
+        "that": 1,
+        "thee": 1,
+        "to": 2,
+        "was": 3,
+        "were": 1,
+        "will": 1,
+        "without": 1
+    },
+    "join'd": {
+        "my": 1
+    },
+    "joints": {
+        "\n": 1
+    },
+    "journey": {
+        "and": 1
+    },
+    "jove": {
+        "laughs": 1
+    },
+    "joy": {
+        "\n": 1,
+        "?\n": 1,
+        "comes": 1,
+        "in": 1,
+        "of": 1
+    },
+    "joyful": {
+        "bride": 1
+    },
+    "juliet": {
+        "\n": 1
+    },
+    "just": {
+        "opposite": 1
+    },
+    "justly": {
+        "seem'st-\n": 1
+    },
+    "keep": {
+        "him": 1,
+        "so": 1
+    },
+    "kill": {
+        "my": 1,
+        "thee": 1
+    },
+    "kill'd": {
+        "my": 1
+    },
+    "kinsman": {
+        "vex'd": 1
+    },
+    "kinsman's": {
+        "bone\n": 1
+    },
+    "kinsmen": {
+        "find": 1
+    },
+    "kiss": {
+        "\n": 1,
+        "by": 1,
+        "thy": 1
+    },
+    "kisses": {
+        "him": 1
+    },
+    "knees": {
+        "\n": 1
+    },
+    "knife": {
+        "i'll": 1
+    },
+    "know": {
+        "before": 1,
+        "his": 1,
+        "i": 1,
+        "it": 1,
+        "the": 1,
+        "thou": 1
+    },
+    "knowest": {
+        "is": 1,
+        "the": 1
+    },
+    "known": {
+        "too": 1
+    },
+    "knows": {
+        "when": 1
+    },
+    "label": {
+        "to": 1
+    },
+    "lady": {
+        "i": 1,
+        "mother": 1
+    },
+    "ladyship": {
+        "?\n": 1
+    },
+    "laid": {
+        "into": 1
+    },
+    "lamb": {
+        "\n": 1
+    },
+    "lame": {
+        "love's": 1
+    },
+    "lamentation": {
+        "might": 1
+    },
+    "lark": {
+        "\n": 1,
+        "and": 1,
+        "makes": 1,
+        "that": 1
+    },
+    "last": {
+        "farewell": 1
+    },
+    "late": {
+        "\n": 1,
+        "or": 1
+    },
+    "laughs": {
+        "o": 1
+    },
+    "laurence": {
+        "to": 1
+    },
+    "laurence'": {
+        "cell": 1,
+        "cell\n": 1
+    },
+    "lays": {
+        "down": 1
+    },
+    "lead": {
+        "\n": 1
+    },
+    "leap": {
+        "rather": 1,
+        "to": 1
+    },
+    "learn": {
+        "me": 1
+    },
+    "learnt": {
+        "even": 1,
+        "me": 1
+    },
+    "leave": {
+        "me": 2
+    },
+    "leaving": {
+        "earth": 1
+    },
+    "left": {
+        "alone": 1,
+        "no": 1
+    },
+    "leisure": {
+        "holy": 1
+    },
+    "lest": {
+        "in": 1,
+        "that": 1
+    },
+    "let": {
+        "day": 1,
+        "life": 1,
+        "me": 3,
+        "the": 1
+    },
+    "lets": {
+        "it": 1
+    },
+    "liberty": {
+        "\n": 2
+    },
+    "lie": {
+        "thou": 1,
+        "upon": 1
+    },
+    "lies": {
+        "\n": 2,
+        "fest'ring": 1
+    },
+    "life": {
+        "\n": 1,
+        "out": 1
+    },
+    "light": {
+        "and": 1,
+        "but": 1,
+        "is": 1,
+        "it": 1,
+        "love": 1,
+        "thee": 1
+    },
+    "lightens": {
+        "'": 1
+    },
+    "lightning": {
+        "which": 1
+    },
+    "like": {
+        "a": 1,
+        "an": 1,
+        "damned": 1,
+        "he": 1,
+        "if": 1,
+        "mandrakes": 1,
+        "that": 1,
+        "the": 1,
+        "to": 1
+    },
+    "likewise": {
+        "variable": 1
+    },
+    "liking": {
+        "move": 1
+    },
+    "limit": {
+        "measure": 1
+    },
+    "lips": {
+        "\n": 1,
+        "are": 1,
+        "that": 1,
+        "the": 1
+    },
+    "little": {
+        "from": 1,
+        "i": 1,
+        "stars": 1
+    },
+    "live": {
+        "an": 1,
+        "is": 1
+    },
+    "lives": {
+        "that": 1
+    },
+    "living": {
+        "if": 1,
+        "mortals": 1
+    },
+    "loathed": {
+        "enemy": 1,
+        "toad": 1
+    },
+    "loathsome": {
+        "smells": 1
+    },
+    "lodging": {
+        "such": 1
+    },
+    "long": {
+        "hours": 1,
+        "to": 2
+    },
+    "long-experienc": {
+        "'d": 1
+    },
+    "longer": {
+        "be": 1,
+        "than": 1
+    },
+    "look": {
+        "methinks": 1,
+        "on": 1,
+        "to": 1
+    },
+    "look'st": {
+        "pale": 1,
+        "thou": 1
+    },
+    "looking": {
+        "liking": 1
+    },
+    "lord": {
+        "?\n": 2,
+        "and": 1,
+        "at": 1,
+        "my": 1,
+        "throughout": 1,
+        "what": 1,
+        "why": 1,
+        "with": 1
+    },
+    "lose": {
+        "a": 1
+    },
+    "loss": {
+        "\n": 2
+    },
+    "love": {
+        "\n": 7,
+        "?\n": 1,
+        "a": 1,
+        "acted": 1,
+        "adieu": 1,
+        "as": 1,
+        "be": 2,
+        "by": 1,
+        "give": 1,
+        "grown": 1,
+        "him": 1,
+        "i": 2,
+        "is": 1,
+        "it": 2,
+        "me": 1,
+        "my": 1,
+        "pronounce": 1,
+        "prove": 1,
+        "says": 1,
+        "sprung": 1,
+        "thy": 1,
+        "with": 1
+    },
+    "love's": {
+        "hand": 1,
+        "heralds": 1
+    },
+    "love-performing": {
+        "night": 1
+    },
+    "lovers": {
+        "can": 1
+    },
+    "lovers'": {
+        "perjuries": 1
+    },
+    "loving": {
+        "black-brow": 1
+    },
+    "loving-jealous": {
+        "of": 1
+    },
+    "low'ring": {
+        "hills": 1
+    },
+    "lure": {
+        "this": 1
+    },
+    "madam": {
+        "\n": 1,
+        "?\n": 1,
+        "from": 1,
+        "i": 2,
+        "if": 1,
+        "in": 1,
+        "we": 1
+    },
+    "made": {
+        "me": 1,
+        "you": 1
+    },
+    "madly": {
+        "play": 1
+    },
+    "maid": {
+        "die": 1
+    },
+    "maiden": {
+        "blush": 1
+    },
+    "maiden-widowed": {
+        "\n": 1
+    },
+    "maidenhead": {
+        "\n": 1
+    },
+    "maidenhoods": {
+        "\n": 1
+    },
+    "make": {
+        "confession": 1,
+        "her": 1,
+        "in": 1,
+        "it": 1,
+        "me": 2,
+        "the": 2,
+        "thee": 1
+    },
+    "makes": {
+        "sweet": 1
+    },
+    "man": {
+        "\n": 1,
+        "art": 1,
+        "in": 1,
+        "like": 1,
+        "o": 1
+    },
+    "mandrakes": {
+        "torn": 1
+    },
+    "mangled": {
+        "it": 1,
+        "tybalt": 1
+    },
+    "mannerly": {
+        "devotion": 1
+    },
+    "mansion": {
+        "of": 1
+    },
+    "mantle": {
+        "till": 1
+    },
+    "mantua": {
+        "\n": 1
+    },
+    "many": {
+        "days": 1,
+        "feign": 1,
+        "hundred": 1,
+        "miles": 1,
+        "orisons\n": 1,
+        "thousand": 1
+    },
+    "marriage": {
+        "?": 1,
+        "for": 1,
+        "he": 1,
+        "send": 1
+    },
+    "married": {
+        "\n": 1,
+        "me": 1,
+        "then": 1
+    },
+    "marry": {
+        "paris": 1,
+        "yet": 1
+    },
+    "marvellous": {
+        "much": 1
+    },
+    "mask": {
+        "of": 1
+    },
+    "match": {
+        "\n": 1
+    },
+    "matron": {
+        "all": 1
+    },
+    "matter": {
+        "than": 1
+    },
+    "may": {
+        "be": 4,
+        "not": 2,
+        "prevent": 1,
+        "prove": 1,
+        "wink": 1
+    },
+    "mayst": {
+        "prove": 1,
+        "think": 1
+    },
+    "me": {
+        "\n": 5,
+        "?": 1,
+        "after": 1,
+        "and": 1,
+        "be": 1,
+        "before": 1,
+        "counsel": 1,
+        "dead": 1,
+        "die": 1,
+        "from": 1,
+        "gentleman": 1,
+        "give": 1,
+        "go": 1,
+        "how": 2,
+        "i": 2,
+        "into": 1,
+        "leap": 1,
+        "love": 1,
+        "lurk\n": 1,
+        "marvellous": 1,
+        "my": 1,
+        "nightly": 1,
+        "not": 2,
+        "now": 1,
+        "o": 1,
+        "of": 1,
+        "some": 1,
+        "sort": 1,
+        "speak": 1,
+        "strength": 1,
+        "that": 1,
+        "there": 1,
+        "this": 1,
+        "thus": 2,
+        "to": 3,
+        "to-morrow": 1,
+        "tremble-\n": 1,
+        "weep": 1,
+        "what": 2,
+        "with": 4,
+        "word": 1
+    },
+    "me-": {
+        "past": 1
+    },
+    "meanest": {
+        "not": 1
+    },
+    "meant": {
+        "love": 1
+    },
+    "measure": {
+        "bound": 1
+    },
+    "meet": {
+        "\n": 1,
+        "again": 2,
+        "him": 1
+    },
+    "men": {
+        "call": 1
+    },
+    "men's": {
+        "rattling": 1
+    },
+    "merrily": {
+        "if": 1
+    },
+    "met": {
+        "the": 1
+    },
+    "meteor": {
+        "that": 1
+    },
+    "methinks": {
+        "i": 2,
+        "it": 1
+    },
+    "might": {
+        "\n": 1,
+        "have": 1,
+        "venge": 1
+    },
+    "miles": {
+        "asunder": 1
+    },
+    "minds": {
+        "\n": 1
+    },
+    "mine": {
+        "before": 1,
+        "eye\n": 1,
+        "own": 1,
+        "shall": 1
+    },
+    "minist'red": {
+        "to": 1
+    },
+    "minute": {
+        "there": 1
+    },
+    "mistaking": {
+        "offer": 1
+    },
+    "mixture": {
+        "do": 1
+    },
+    "modern": {
+        "lamentation": 1
+    },
+    "modesty": {
+        "\n": 2
+    },
+    "monarch": {
+        "of": 1
+    },
+    "montague": {
+        "\n": 1,
+        "?": 1,
+        "?\n": 1,
+        "be": 1,
+        "i": 1
+    },
+    "month": {
+        "a": 1
+    },
+    "monthly": {
+        "changes": 1
+    },
+    "monument": {
+        "where": 1
+    },
+    "moon": {
+        "\n": 1,
+        "th'": 1
+    },
+    "more": {
+        "cunning": 1,
+        "deep": 1,
+        "hoarse": 1,
+        "i": 2,
+        "light": 1,
+        "price": 1,
+        "rich": 1,
+        "sin": 1,
+        "strange": 1,
+        "true\n": 1
+    },
+    "morning": {
+        "?\n": 1,
+        "i": 1
+    },
+    "morrow": {
+        "\n": 1
+    },
+    "mortal": {
+        "paradise": 1
+    },
+    "mortals": {
+        "hearing": 1
+    },
+    "most": {
+        "wicked": 1
+    },
+    "mother": {
+        "\n": 1,
+        "?": 2,
+        "cast": 1,
+        "nay": 1,
+        "nurse": 1,
+        "tybalt": 1
+    },
+    "motion": {
+        "as": 1,
+        "here": 1
+    },
+    "mouth": {
+        "no": 1
+    },
+    "mov'd": {
+        "?\n": 1
+    },
+    "move": {
+        "but": 1,
+        "the": 1,
+        "though": 1
+    },
+    "much": {
+        "\n": 3,
+        "cherishing": 1,
+        "in": 1,
+        "to": 1
+    },
+    "murd'red": {
+        "me": 1
+    },
+    "murther": {
+        "thee": 1
+    },
+    "music": {
+        "of": 1
+    },
+    "must": {
+        "act": 1,
+        "be": 1,
+        "confess": 1,
+        "hear": 1,
+        "love": 1,
+        "use": 1,
+        "wed\n": 1
+    },
+    "my": {
+        "bed": 1,
+        "bones": 1,
+        "bosom": 1,
+        "bounty": 1,
+        "breast": 1,
+        "buried": 1,
+        "cheek\n": 1,
+        "cheeks": 1,
+        "closet\n": 1,
+        "counsel": 1,
+        "cousin": 2,
+        "cousin's": 2,
+        "dear-lov": 1,
+        "dearer": 1,
+        "desp'rate": 1,
+        "dismal": 1,
+        "ears": 1,
+        "enemy": 1,
+        "extremes": 1,
+        "eyesight": 1,
+        "face": 2,
+        "faith": 1,
+        "father": 2,
+        "forefathers'": 1,
+        "fortunes": 1,
+        "friend": 1,
+        "ghostly": 1,
+        "grave": 1,
+        "grief": 2,
+        "hands": 1,
+        "haviour": 1,
+        "heart": 5,
+        "husband": 5,
+        "idolatry": 1,
+        "kinsmen": 1,
+        "knees": 1,
+        "lady": 2,
+        "lips": 1,
+        "lord": 6,
+        "love": 4,
+        "maidenhead": 1,
+        "memory\n": 1,
+        "mother": 3,
+        "nurse": 1,
+        "only": 2,
+        "poor": 1,
+        "resolution": 1,
+        "romeo": 4,
+        "romeo's": 1,
+        "state": 1,
+        "sweet": 2,
+        "true": 4,
+        "true-love": 1,
+        "unmann'd": 1,
+        "veins\n": 1,
+        "weal": 1,
+        "wealth": 1,
+        "wedding": 2,
+        "words": 1
+    },
+    "myself": {
+        "\n": 2,
+        "have": 1,
+        "to-night": 1
+    },
+    "nam'd": {
+        "and": 1
+    },
+    "name": {
+        "\n": 3,
+        "?": 1,
+        "and": 1,
+        "if": 1,
+        "that": 1,
+        "which": 1,
+        "would": 1
+    },
+    "native": {
+        "spring": 1
+    },
+    "nature": {
+        "what": 1
+    },
+    "nay": {
+        "\n": 1,
+        "come": 1,
+        "or": 1
+    },
+    "ne'er": {
+        "look": 1
+    },
+    "near": {
+        "day": 1
+    },
+    "need": {
+        "of": 1
+    },
+    "need'st": {
+        "not": 1
+    },
+    "needful": {
+        "ornaments\n": 1
+    },
+    "needly": {
+        "will": 1
+    },
+    "needs": {
+        "must": 1
+    },
+    "needy": {
+        "time": 1
+    },
+    "never": {
+        "be": 1,
+        "shall": 1
+    },
+    "new": {
+        "robes\n": 1,
+        "snow": 1
+    },
+    "new-made": {
+        "grave\n": 1
+    },
+    "news": {
+        "\n": 1,
+        "?": 1,
+        "be": 1,
+        "good": 1,
+        "indeed": 1
+    },
+    "next": {
+        "we": 1
+    },
+    "night": {
+        "\n": 5,
+        "a": 1,
+        "as": 1,
+        "before": 1,
+        "come": 3,
+        "exit": 1,
+        "for": 1,
+        "give": 1,
+        "good": 2,
+        "hath": 1,
+        "immediately": 1,
+        "indeed": 1,
+        "is": 1,
+        "parting": 1,
+        "sit": 1,
+        "spirits": 1,
+        "till": 1
+    },
+    "nightingale": {
+        "\n": 1,
+        "and": 1
+    },
+    "nightly": {
+        "in": 1,
+        "she": 1
+    },
+    "nimble-pinion": {
+        "'d": 1
+    },
+    "nine": {
+        "till": 1,
+        "when": 1
+    },
+    "no": {
+        "but": 1,
+        "end": 1,
+        "farther": 1,
+        "friendly": 1,
+        "healthsome": 1,
+        "help": 1,
+        "issue": 1,
+        "joy": 1,
+        "limit": 1,
+        "longer": 1,
+        "madam": 1,
+        "man": 1,
+        "more": 1,
+        "no": 2,
+        "part": 1,
+        "pity": 1,
+        "slander": 1,
+        "this": 1,
+        "words": 1,
+        "worship": 1
+    },
+    "noise": {
+        "within": 1
+    },
+    "none": {
+        "but": 1
+    },
+    "nor": {
+        "any": 1,
+        "arm": 1,
+        "face": 1,
+        "foot": 1,
+        "hand": 1
+    },
+    "not": {
+        "\n": 1,
+        "'no": 1,
+        "a": 2,
+        "away": 2,
+        "be": 2,
+        "born": 1,
+        "by": 1,
+        "come": 1,
+        "dance": 1,
+        "daylight": 1,
+        "down": 1,
+        "drunk": 1,
+        "entertain": 1,
+        "fail": 1,
+        "for": 2,
+        "friar": 1,
+        "i": 1,
+        "impute": 1,
+        "keep": 1,
+        "like": 1,
+        "make": 2,
+        "marry": 1,
+        "me": 1,
+        "mine": 1,
+        "move": 1,
+        "of": 3,
+        "possess'd": 1,
+        "proud": 1,
+        "romeo": 3,
+        "so": 3,
+        "speak": 1,
+        "stepping": 1,
+        "swear": 2,
+        "the": 1,
+        "then": 1,
+        "to": 1,
+        "very": 1,
+        "wear": 1,
+        "well": 3,
+        "when": 1,
+        "work": 1,
+        "yet": 2
+    },
+    "now": {
+        "\n": 1,
+        "?": 1,
+        "be": 2,
+        "by": 1,
+        "good": 1,
+        "i": 1,
+        "is": 2,
+        "thou": 1
+    },
+    "nurse": {
+        "\n": 3,
+        "?\n": 2,
+        "calls": 1,
+        "farewell": 1,
+        "how": 1,
+        "i'll": 1,
+        "in": 1,
+        "say": 1,
+        "speak": 1,
+        "sweet": 1,
+        "tell": 1,
+        "this": 1,
+        "what": 2,
+        "will": 1
+    },
+    "nurse-": {
+        "o": 1
+    },
+    "o": {
+        "be": 1,
+        "bid": 1,
+        "break": 1,
+        "by": 1,
+        "churl": 1,
+        "comfortable": 1,
+        "find": 1,
+        "for": 1,
+        "fortune": 1,
+        "gentle": 1,
+        "god": 3,
+        "here": 1,
+        "how": 1,
+        "i": 1,
+        "if": 1,
+        "it": 1,
+        "look": 1,
+        "lord": 1,
+        "most": 1,
+        "nature": 1,
+        "now": 2,
+        "nurse": 1,
+        "romeo": 1,
+        "serpent": 1,
+        "she": 1,
+        "shut": 1,
+        "swear": 1,
+        "sweet": 1,
+        "tell": 1,
+        "that": 1,
+        "think'st": 1,
+        "what": 1
+    },
+    "o'clock": {
+        "to-morrow\n": 1
+    },
+    "o'er": {
+        "the": 1
+    },
+    "o'ercover'd": {
+        "quite": 1
+    },
+    "oddly": {
+        "thou": 1
+    },
+    "of": {
+        "\n": 1,
+        "a": 3,
+        "all": 1,
+        "and": 1,
+        "breath": 2,
+        "cockatrice": 1,
+        "death": 1,
+        "disobedient": 1,
+        "divinest": 1,
+        "door": 1,
+        "fear": 1,
+        "half": 1,
+        "heaven": 1,
+        "him": 1,
+        "his": 2,
+        "joy": 1,
+        "life": 1,
+        "love": 3,
+        "many": 1,
+        "modesty": 1,
+        "more": 1,
+        "my": 5,
+        "night": 1,
+        "night\n": 1,
+        "one": 1,
+        "ornament": 1,
+        "our": 1,
+        "remedy": 1,
+        "sin": 1,
+        "stainless": 1,
+        "such": 1,
+        "sweet": 1,
+        "that": 2,
+        "the": 3,
+        "thee": 1,
+        "these": 1,
+        "thine": 1,
+        "this": 3,
+        "thy": 2,
+        "true": 1,
+        "tune": 1,
+        "what": 1,
+        "yonder": 1
+    },
+    "off": {
+        "the": 1
+    },
+    "offer": {
+        "up": 1
+    },
+    "old": {
+        "folks": 1
+    },
+    "on": {
+        "earth": 1,
+        "form-": 1,
+        "liberty": 1,
+        "my": 3,
+        "the": 1,
+        "them\n": 1,
+        "yond": 1
+    },
+    "once": {
+        "\n": 1
+    },
+    "one": {
+        "calls": 1,
+        "can": 1,
+        "dead": 1,
+        "heavy": 1,
+        "i": 1,
+        "that": 1,
+        "word": 1
+    },
+    "only": {
+        "hate": 1,
+        "love": 1
+    },
+    "opposite": {
+        "to": 1
+    },
+    "or": {
+        "bad": 2,
+        "behold": 1,
+        "bid": 2,
+        "both": 1,
+        "doubt": 1,
+        "if": 8,
+        "my": 1,
+        "shall": 1,
+        "shut": 1,
+        "those": 1,
+        "thou": 1,
+        "thy": 1,
+        "to": 1,
+        "up": 1,
+        "walk": 1,
+        "woe": 1
+    },
+    "orb": {
+        "\n": 1
+    },
+    "orchard": {
+        "walls": 1
+    },
+    "ornament": {
+        "\n": 1
+    },
+    "other": {
+        "griefs": 1,
+        "name": 2,
+        "part\n": 1
+    },
+    "our": {
+        "hands": 1,
+        "marriage": 1,
+        "state": 1
+    },
+    "out": {
+        "\n": 1,
+        "but": 1,
+        "in": 1,
+        "my": 1,
+        "of": 6,
+        "romeo": 1,
+        "this": 1
+    },
+    "over": {
+        "low'ring": 1
+    },
+    "overheard'st": {
+        "ere": 1
+    },
+    "own": {
+        "\n": 1,
+        "beauties": 1
+    },
+    "pack'd": {
+        "where": 1
+    },
+    "pair": {
+        "of": 1
+    },
+    "palace": {
+        "\n": 1
+    },
+    "pale": {
+        "\n": 1,
+        "as": 1
+    },
+    "palm": {
+        "is": 1,
+        "to": 1
+    },
+    "palmers'": {
+        "kiss": 1
+    },
+    "paradise": {
+        "of": 1
+    },
+    "pardon": {
+        "him": 1,
+        "i": 1,
+        "me": 1,
+        "pardon": 1
+    },
+    "paris": {
+        "\n": 1,
+        "these": 1
+    },
+    "part": {
+        "of": 1
+    },
+    "parting": {
+        "is": 1
+    },
+    "passion": {
+        "therefore": 1
+    },
+    "past": {
+        "cure": 1,
+        "help": 1,
+        "hope": 1
+    },
+    "patience": {
+        "but": 1
+    },
+    "pay": {
+        "no": 1
+    },
+    "perchance": {
+        "she": 1
+    },
+    "perfection": {
+        "which": 1
+    },
+    "perform": {
+        "the": 1
+    },
+    "perjuries": {
+        "\n": 1
+    },
+    "perverse": {
+        "and": 1
+    },
+    "peter": {
+        "too": 1
+    },
+    "peter's": {
+        "church": 1
+    },
+    "phaeton": {
+        "would": 1
+    },
+    "phoebus'": {
+        "lodging": 1
+    },
+    "pierc'd": {
+        "the": 1
+    },
+    "pilgrim": {
+        "lips": 1,
+        "you": 1
+    },
+    "pilgrims'": {
+        "hands": 1
+    },
+    "pity": {
+        "sitting": 1
+    },
+    "place": {
+        "?\n": 1,
+        "death": 1
+    },
+    "play": {
+        "the": 1,
+        "with": 1
+    },
+    "play'd": {
+        "for": 1
+    },
+    "playing": {
+        "it": 1
+    },
+    "please": {
+        "you": 1
+    },
+    "pluck": {
+        "the": 1
+    },
+    "plucks": {
+        "it": 1
+    },
+    "point": {
+        "\n": 1,
+        "stay": 1
+    },
+    "poison": {
+        "i": 2,
+        "more\n": 1,
+        "which": 1,
+        "yet": 1
+    },
+    "pomegranate": {
+        "tree": 1
+    },
+    "poor": {
+        "bankrout": 1,
+        "heart": 1,
+        "my": 1,
+        "prisoner": 1,
+        "ropes": 1
+    },
+    "possess'd": {
+        "it": 1
+    },
+    "power": {
+        "to": 1
+    },
+    "practise": {
+        "stratagems\n": 1
+    },
+    "prais'd": {
+        "him": 1
+    },
+    "pray": {
+        "thee": 3,
+        "you": 1
+    },
+    "pray'r": {
+        "\n": 1
+    },
+    "prayers'": {
+        "sake": 1
+    },
+    "present": {
+        "counsel": 1
+    },
+    "presently": {
+        "\n": 1
+    },
+    "press": {
+        "one": 1
+    },
+    "presses": {
+        "to": 1
+    },
+    "prevent": {
+        "it": 1
+    },
+    "prevented": {
+        "?\n": 1
+    },
+    "price": {
+        "\n": 1
+    },
+    "prison": {
+        "eyes": 1
+    },
+    "prisoner": {
+        "in": 1
+    },
+    "procure": {
+        "to": 1
+    },
+    "procures": {
+        "her": 1
+    },
+    "prodigious": {
+        "birth": 1
+    },
+    "pronounce": {
+        "it": 1
+    },
+    "prostrate": {
+        "here\n": 1
+    },
+    "proud": {
+        "can": 1,
+        "you": 1
+    },
+    "prove": {
+        "a": 1,
+        "false": 1,
+        "likewise": 1,
+        "more": 1
+    },
+    "purpose": {
+        "marriage": 1
+    },
+    "quickly": {
+        "won": 1
+    },
+    "quiet": {
+        "o": 1
+    },
+    "quite": {
+        "with": 1
+    },
+    "rage": {
+        "with": 1
+    },
+    "rank'd": {
+        "with": 1
+    },
+    "rapier's": {
+        "point": 1
+    },
+    "rash": {
+        "too": 1
+    },
+    "rather": {
+        "than": 2
+    },
+    "rattling": {
+        "bones": 1
+    },
+    "raven": {
+        "wolvish-ravening": 1
+    },
+    "raven's": {
+        "back": 1
+    },
+    "reach": {
+        "of": 1
+    },
+    "rearward": {
+        "following": 1
+    },
+    "receipt": {
+        "thereof": 1
+    },
+    "redeem": {
+        "me": 1
+    },
+    "reeky": {
+        "shanks": 1
+    },
+    "refuse": {
+        "thy": 1
+    },
+    "remedy": {
+        "\n": 2
+    },
+    "rememb'ring": {
+        "how": 1
+    },
+    "remember": {
+        "well": 1
+    },
+    "renown'd": {
+        "for": 1
+    },
+    "repent": {
+        "the": 1
+    },
+    "repetition": {
+        "of": 1
+    },
+    "repliest": {
+        "\n": 1
+    },
+    "repose": {
+        "and": 1
+    },
+    "request": {
+        "it": 1
+    },
+    "resign": {
+        "end": 1
+    },
+    "resolution": {
+        "wise\n": 1
+    },
+    "restorative": {
+        "kisses": 1
+    },
+    "retain": {
+        "that": 1
+    },
+    "return": {
+        "\n": 1,
+        "again": 1
+    },
+    "rhyme": {
+        "i": 1
+    },
+    "rich": {
+        "in": 1
+    },
+    "ring": {
+        "to": 1
+    },
+    "ripening": {
+        "breath": 1
+    },
+    "rite": {
+        "and": 1
+    },
+    "roar'd": {
+        "in": 1
+    },
+    "roaring": {
+        "bears": 1
+    },
+    "romeo": {
+        "\n": 4,
+        "?\n": 4,
+        "and": 3,
+        "call'd": 1,
+        "come": 1,
+        "comes": 1,
+        "doff": 1,
+        "hist": 1,
+        "i": 1,
+        "is": 1,
+        "juliet": 1,
+        "press": 1,
+        "romeo": 1,
+        "should": 1,
+        "slain": 1,
+        "slaught'red": 1,
+        "take": 1,
+        "that": 1,
+        "till": 1,
+        "wherefore": 1,
+        "whom": 1,
+        "would": 1
+    },
+    "romeo's": {
+        "banishment": 1,
+        "hand": 1,
+        "name": 1,
+        "seal'd": 1,
+        "thou": 1
+    },
+    "romeo-": {
+        "banished": 1
+    },
+    "ropes": {
+        "you": 1
+    },
+    "rul'd": {
+        "by": 1
+    },
+    "run": {
+        "mad-\n": 1
+    },
+    "runaway": {
+        "eyes": 1
+    },
+    "sad": {
+        "?\n": 1,
+        "yet": 1
+    },
+    "said": {
+        "'tybalt's": 1
+    },
+    "saint": {
+        "an": 1,
+        "peter's": 1
+    },
+    "saints": {
+        "do": 1,
+        "have": 1
+    },
+    "sake": {
+        "\n": 1
+    },
+    "same": {
+        "tongue\n": 1
+    },
+    "satisfaction": {
+        "canst": 1
+    },
+    "satisfied": {
+        "is't": 1
+    },
+    "saw": {
+        "thee": 1
+    },
+    "say": {
+        "\n": 1,
+        "'ay'": 1,
+        "'i'": 1,
+        "'it": 1,
+        "either": 1,
+        "good": 1,
+        "i": 1,
+        "jove": 1,
+        "the": 2,
+        "thee": 1,
+        "thou": 1,
+        "to": 1
+    },
+    "say'st": {
+        "thou": 1
+    },
+    "says": {
+        "he": 1,
+        "like": 1,
+        "my": 1,
+        "romeo": 1
+    },
+    "scene": {
+        "i": 1
+    },
+    "sea": {
+        "\n": 1
+    },
+    "seal'd": {
+        "\n": 1
+    },
+    "see": {
+        "hath": 1,
+        "my": 1,
+        "thee": 2,
+        "to": 1
+    },
+    "seeking": {
+        "out": 1
+    },
+    "seen": {
+        "unknown": 1
+    },
+    "sees": {
+        "into": 1
+    },
+    "self": {
+        "\n": 1
+    },
+    "send": {
+        "\n": 1,
+        "him": 1,
+        "it": 1,
+        "me": 1,
+        "the": 1,
+        "to": 1
+    },
+    "serpent": {
+        "heart": 1
+    },
+    "serpents": {
+        "are": 1
+    },
+    "shadows": {
+        "over": 1
+    },
+    "shall": {
+        "be": 7,
+        "die": 1,
+        "ever": 1,
+        "forbid": 1,
+        "forget": 1,
+        "help": 1,
+        "i": 6,
+        "meet": 1,
+        "not": 1,
+        "play": 1,
+        "poison": 1,
+        "say": 1,
+        "slay": 1,
+        "smooth": 1,
+        "that": 1,
+        "this": 1
+    },
+    "shame": {
+        "\n": 1,
+        "is": 1
+    },
+    "shamest": {
+        "the": 1
+    },
+    "shanks": {
+        "and": 1
+    },
+    "sharps": {
+        "\n": 1
+    },
+    "she": {
+        "'promis'd": 1,
+        "affections": 1,
+        "be": 1,
+        "cannot": 1,
+        "divideth": 1,
+        "do": 1,
+        "hath": 1,
+        "is": 3,
+        "not": 1,
+        "said": 1,
+        "sings": 1,
+        "would": 1
+    },
+    "shed": {
+        "tybalt's": 1
+    },
+    "should": {
+        "be": 5,
+        "confess": 1,
+        "dwell\n": 1,
+        "have": 1,
+        "kill": 1,
+        "not": 1,
+        "practise": 1,
+        "she": 2,
+        "upon": 1
+    },
+    "show": {
+        "\n": 1
+    },
+    "shows": {
+        "in": 1
+    },
+    "shrieks": {
+        "like": 1
+    },
+    "shroud": {
+        "\n": 1,
+        "where": 1
+    },
+    "shut": {
+        "me": 1,
+        "that": 1,
+        "the": 1
+    },
+    "silk": {
+        "thread": 1
+    },
+    "simple": {
+        "modesty": 1
+    },
+    "sin": {
+        "\n": 1,
+        "that": 1,
+        "to": 1
+    },
+    "since": {
+        "arm": 1
+    },
+    "sings": {
+        "on": 1,
+        "so": 1
+    },
+    "sinners'": {
+        "minds": 1
+    },
+    "sir": {
+        "when": 1,
+        "which": 1
+    },
+    "sit": {
+        "for": 1,
+        "up": 1
+    },
+    "sitting": {
+        "in": 1
+    },
+    "skulls": {
+        "or": 1
+    },
+    "slain": {
+        "all": 1,
+        "and": 1,
+        "himself": 1,
+        "my": 1,
+        "say": 1,
+        "ten": 1
+    },
+    "slander": {
+        "sir": 1
+    },
+    "slaught'red": {
+        "and": 1
+    },
+    "slaughter'd": {
+        "him": 1
+    },
+    "slay": {
+        "them": 1
+    },
+    "sleep": {
+        "in": 1
+    },
+    "slow": {
+        "heavy": 1
+    },
+    "small": {
+        "victory": 1
+    },
+    "smell": {
+        "as": 1
+    },
+    "smells": {
+        "\n": 1
+    },
+    "smile": {
+        "upon": 1
+    },
+    "smooth": {
+        "thy": 1
+    },
+    "snow": {
+        "upon": 1
+    },
+    "so": {
+        "\n": 2,
+        "bad": 1,
+        "contrary": 1,
+        "discovered": 1,
+        "early": 2,
+        "envious": 1,
+        "fair": 1,
+        "fairly": 1,
+        "fine\n": 1,
+        "for": 3,
+        "it": 1,
+        "late": 1,
+        "long": 1,
+        "loving-jealous": 1,
+        "many": 1,
+        "my": 1,
+        "out": 1,
+        "please": 1,
+        "romeo": 1,
+        "soft": 1,
+        "sour": 1,
+        "stumblest": 1,
+        "sudden": 1,
+        "tedious": 1,
+        "the": 1,
+        "thou": 1,
+        "would": 1
+    },
+    "sober-suited": {
+        "matron": 1
+    },
+    "soft": {
+        "a": 1
+    },
+    "sold": {
+        "\n": 1
+    },
+    "sole": {
+        "monarch": 1
+    },
+    "some": {
+        "comfort": 1,
+        "festival\n": 1,
+        "great": 1,
+        "hours": 1,
+        "meteor": 1,
+        "noise": 1,
+        "other": 1,
+        "poison": 1,
+        "present": 1,
+        "say": 2,
+        "word": 1
+    },
+    "soon": {
+        "sleep": 1
+    },
+    "sorrow": {
+        "\n": 1
+    },
+    "sorry": {
+        "that": 1
+    },
+    "sort": {
+        "such": 1
+    },
+    "soul": {
+        "\n": 1
+    },
+    "sound": {
+        "\n": 2,
+        "the": 1
+    },
+    "sounds": {
+        "determine": 1
+    },
+    "sour": {
+        "a": 1,
+        "woe": 1
+    },
+    "spake": {
+        "i": 1,
+        "it": 1
+    },
+    "speak": {
+        "\n": 1,
+        "a": 1,
+        "aloud": 1,
+        "good": 1,
+        "i": 1,
+        "ill": 1,
+        "not": 1,
+        "that": 1,
+        "to-night": 1
+    },
+    "speak'st": {
+        "speak": 1,
+        "thou": 1
+    },
+    "spent": {
+        "\n": 1
+    },
+    "spirit": {
+        "of": 1
+    },
+    "spirits": {
+        "resort-\n": 1
+    },
+    "spit": {
+        "his": 1
+    },
+    "spite": {
+        "\n": 1
+    },
+    "spoke": {
+        "behind": 1,
+        "but": 1
+    },
+    "spread": {
+        "thy": 1
+    },
+    "spring": {
+        "\n": 1
+    },
+    "sprung": {
+        "from": 1
+    },
+    "stainless": {
+        "maidenhoods": 1
+    },
+    "stand": {
+        "there": 1
+    },
+    "stars": {
+        "\n": 1
+    },
+    "state": {
+        "\n": 1,
+        "to-morrow": 1
+    },
+    "stay": {
+        "\n": 1,
+        "but": 1,
+        "the": 1,
+        "tybalt": 1,
+        "yet": 1
+    },
+    "steeds": {
+        "\n": 1
+    },
+    "stepping": {
+        "o'er": 1
+    },
+    "stifled": {
+        "in": 1
+    },
+    "still": {
+        "been": 1,
+        "stand": 1
+    },
+    "stint": {
+        "thou": 1
+    },
+    "storm": {
+        "is": 1
+    },
+    "straining": {
+        "harsh": 1
+    },
+    "strange": {
+        "\n": 1,
+        "i": 1,
+        "love": 1
+    },
+    "strangled": {
+        "ere": 1
+    },
+    "strength": {
+        "and": 1,
+        "shall": 1,
+        "to": 1
+    },
+    "struck": {
+        "nine": 1
+    },
+    "stumblest": {
+        "on": 1
+    },
+    "subject": {
+        "as": 1
+    },
+    "substance": {
+        "not": 1,
+        "of": 1
+    },
+    "subtilly": {
+        "hath": 1
+    },
+    "such": {
+        "a": 6,
+        "an": 1,
+        "excess\n": 1,
+        "necessaries\n": 1,
+        "needful": 1,
+        "sweet": 2,
+        "vile": 1
+    },
+    "sudden": {
+        "business": 1,
+        "too": 1
+    },
+    "suit": {
+        "and": 1
+    },
+    "sum": {
+        "of": 1,
+        "up": 1
+    },
+    "summer's": {
+        "ripening": 1
+    },
+    "sun": {
+        "\n": 1,
+        "exhales\n": 1,
+        "upon": 1
+    },
+    "sun's": {
+        "beams\n": 1
+    },
+    "sure": {
+        "you": 1
+    },
+    "swear": {
+        "although": 1,
+        "at": 1,
+        "by": 1,
+        "not": 1
+    },
+    "swear'st": {
+        "\n": 1
+    },
+    "sweet": {
+        "\n": 1,
+        "division": 1,
+        "flesh": 1,
+        "good": 1,
+        "love": 2,
+        "montague": 1,
+        "my": 1,
+        "news\n": 1,
+        "nurse": 1,
+        "nurse-": 1,
+        "repose": 1,
+        "so": 1,
+        "sorrow": 1,
+        "sweet": 2
+    },
+    "swift": {
+        "in": 1
+    },
+    "sworn": {
+        "my": 1
+    },
+    "take": {
+        "all": 1,
+        "him": 1,
+        "his": 1,
+        "my": 1,
+        "thy": 1,
+        "up": 1
+    },
+    "tale": {
+        "thou": 1
+    },
+    "tassel-gentle": {
+        "back": 1
+    },
+    "tear": {
+        "the": 1
+    },
+    "tears": {
+        "?": 1,
+        "back": 1,
+        "have": 1
+    },
+    "tedious": {
+        "is": 1
+    },
+    "tell": {
+        "me": 4,
+        "my": 2,
+        "not": 1,
+        "them": 1
+    },
+    "temper": {
+        "it": 1
+    },
+    "ten": {
+        "thousand": 1,
+        "times": 1
+    },
+    "terror": {
+        "of": 1
+    },
+    "th'": {
+        "book": 1,
+        "inconstant": 1
+    },
+    "than": {
+        "a": 1,
+        "in": 1,
+        "marry": 1,
+        "mine\n": 1,
+        "new": 1,
+        "paris": 1,
+        "the": 3,
+        "those": 1,
+        "to": 1,
+        "tybalt's": 1,
+        "your": 1
+    },
+    "thankful": {
+        "even": 1,
+        "that": 1
+    },
+    "thanks": {
+        "too": 1
+    },
+    "that": {
+        "\n": 2,
+        "'banished": 1,
+        "?\n": 2,
+        "all": 1,
+        "almost": 1,
+        "bare": 1,
+        "blows": 1,
+        "calls": 1,
+        "can": 1,
+        "dear": 1,
+        "deceit": 1,
+        "did": 1,
+        "dim": 1,
+        "dost": 1,
+        "faith": 1,
+        "follows": 1,
+        "hath": 2,
+        "have": 1,
+        "heaven": 1,
+        "husband": 1,
+        "i": 7,
+        "i'll": 1,
+        "is": 5,
+        "lets": 1,
+        "living": 1,
+        "make": 1,
+        "may": 1,
+        "monthly": 1,
+        "murd'red": 1,
+        "name": 1,
+        "now": 1,
+        "one": 1,
+        "pierc'd": 1,
+        "pilgrims'": 1,
+        "romeo": 1,
+        "romeo\n": 1,
+        "runaway": 1,
+        "same": 1,
+        "sees": 1,
+        "should": 1,
+        "sings": 1,
+        "the": 1,
+        "they": 2,
+        "thou": 5,
+        "thus": 1,
+        "thy": 2,
+        "title": 1,
+        "to": 1,
+        "tongue's": 1,
+        "tybalt": 1,
+        "villain": 1,
+        "voice": 1,
+        "which": 2,
+        "within": 1,
+        "woe": 1,
+        "word\n": 1,
+        "word's": 1,
+        "would": 2,
+        "you": 1
+    },
+    "that's": {
+        "not": 1
+    },
+    "the": {
+        "battlements": 1,
+        "bones\n": 1,
+        "bottom": 2,
+        "bounds": 1,
+        "bridal": 1,
+        "cave": 1,
+        "circumstance": 1,
+        "clock": 1,
+        "clouds\n": 1,
+        "commission": 1,
+        "dark": 1,
+        "day": 1,
+        "death-darting": 1,
+        "door": 1,
+        "earth": 1,
+        "empire": 1,
+        "excuse": 1,
+        "face": 1,
+        "fearful": 1,
+        "friar": 1,
+        "friar\n": 1,
+        "friend": 1,
+        "garish": 1,
+        "general": 1,
+        "god": 1,
+        "heat": 1,
+        "heavens": 1,
+        "highmost": 1,
+        "horrible": 1,
+        "hour": 1,
+        "label": 1,
+        "lark": 4,
+        "lightning": 1,
+        "loss": 1,
+        "love": 1,
+        "mangled": 1,
+        "mansion": 1,
+        "mask": 1,
+        "moon": 1,
+        "more": 2,
+        "music": 1,
+        "night": 2,
+        "nightingale": 2,
+        "nurse": 2,
+        "orchard": 1,
+        "place": 1,
+        "place-\n": 1,
+        "reach": 1,
+        "rite": 1,
+        "sea": 1,
+        "sin": 1,
+        "sin\n": 1,
+        "sound": 1,
+        "spirit": 1,
+        "sun": 2,
+        "sun's": 1,
+        "tale": 1,
+        "tears": 1,
+        "terror": 1,
+        "thing": 1,
+        "time": 1,
+        "tomb": 1,
+        "universal": 1,
+        "vault": 1,
+        "way": 1,
+        "west\n": 1,
+        "wind-swift": 1,
+        "wings": 1,
+        "world": 4,
+        "youthful": 1
+    },
+    "thee": {
+        "\n": 7,
+        "?\n": 1,
+        "again": 1,
+        "answer": 1,
+        "back": 1,
+        "every": 1,
+        "fickle": 1,
+        "gone-\n": 1,
+        "hence": 2,
+        "here": 2,
+        "leave": 1,
+        "mine": 1,
+        "my": 1,
+        "nay": 1,
+        "now": 1,
+        "nurse": 1,
+        "on": 1,
+        "speak": 1,
+        "still": 1,
+        "they": 1,
+        "this": 1,
+        "to": 1,
+        "with": 1
+    },
+    "their": {
+        "amorous": 1,
+        "own": 1,
+        "spite": 1,
+        "worth": 1
+    },
+    "theirs": {
+        "are": 1
+    },
+    "them": {
+        "back": 1,
+        "both": 1,
+        "merrily": 1,
+        "o": 1,
+        "run": 1,
+        "told": 1
+    },
+    "then": {
+        "\n": 1,
+        "?\n": 1,
+        "be": 1,
+        "dreadful": 1,
+        "have": 1,
+        "i": 1,
+        "to-morrow": 1,
+        "window": 1
+    },
+    "there": {
+        "\n": 2,
+        "a": 1,
+        "are": 1,
+        "be": 1,
+        "die": 1,
+        "i": 1,
+        "is": 1,
+        "no": 1,
+        "or": 1,
+        "that": 1,
+        "was": 1
+    },
+    "there's": {
+        "a": 1
+    },
+    "therefore": {
+        "do": 1,
+        "hath": 1,
+        "out": 1,
+        "pardon": 1,
+        "stay": 1,
+        "thou": 1
+    },
+    "thereof": {
+        "\n": 1
+    },
+    "these": {
+        "are": 1,
+        "arms": 1,
+        "hideous": 1,
+        "my": 1
+    },
+    "they": {
+        "are": 1,
+        "do": 1,
+        "had": 1,
+        "have": 1,
+        "his": 1,
+        "i": 1,
+        "must": 1,
+        "saw": 1,
+        "say": 2,
+        "were": 1,
+        "will": 1
+    },
+    "thievish": {
+        "ways": 1
+    },
+    "thine": {
+        "ear": 1
+    },
+    "thing": {
+        "i": 1
+    },
+    "things": {
+        "that": 1
+    },
+    "think": {
+        "fit": 1,
+        "my": 1,
+        "true": 1
+    },
+    "think'st": {
+        "thou": 1
+    },
+    "thinkest": {
+        "i": 1
+    },
+    "this": {
+        "\n": 1,
+        "be": 1,
+        "bloody": 1,
+        "bud": 1,
+        "contract": 1,
+        "count": 1,
+        "day\n": 1,
+        "day's": 1,
+        "delay\n": 1,
+        "did": 1,
+        "do": 1,
+        "doth": 1,
+        "for": 1,
+        "from": 1,
+        "hand": 1,
+        "haste": 1,
+        "is": 1,
+        "knife": 1,
+        "many": 1,
+        "marriage": 2,
+        "mixture": 1,
+        "night": 2,
+        "place": 1,
+        "rage": 1,
+        "ring": 1,
+        "shall": 2,
+        "so": 1,
+        "tassel-gentle": 1,
+        "that": 1,
+        "torture": 1,
+        "yielding": 1
+    },
+    "those": {
+        "attires": 1,
+        "cords": 1,
+        "eyes": 1,
+        "that": 1,
+        "two": 1
+    },
+    "thou": {
+        "?": 1,
+        "and": 2,
+        "art": 6,
+        "be": 1,
+        "but": 2,
+        "canst": 1,
+        "day": 1,
+        "didst": 2,
+        "dost": 3,
+        "gone": 1,
+        "hadst": 1,
+        "hast": 4,
+        "have": 1,
+        "hear'st": 1,
+        "hither": 1,
+        "justly": 1,
+        "kill": 1,
+        "knowest": 2,
+        "look'st": 1,
+        "love": 1,
+        "mayst": 2,
+        "meanest": 1,
+        "need'st": 1,
+        "not": 2,
+        "our": 1,
+        "out": 2,
+        "overheard'st": 1,
+        "repliest": 1,
+        "romeo": 1,
+        "sad": 1,
+        "shamest": 1,
+        "sober-suited": 1,
+        "speak'st": 1,
+        "swear'st": 1,
+        "tell": 1,
+        "that": 2,
+        "there": 1,
+        "thinkest": 1,
+        "this": 1,
+        "to": 1,
+        "too": 1,
+        "we": 1,
+        "wilt": 7,
+        "with": 1,
+        "wring": 1
+    },
+    "though": {
+        "grant": 1,
+        "i": 1,
+        "news": 1,
+        "not": 1
+    },
+    "thought": {
+        "\n": 1
+    },
+    "thoughts": {
+        "\n": 1
+    },
+    "thousand": {
+        "times": 2,
+        "tybalts": 1
+    },
+    "thread": {
+        "plucks": 1
+    },
+    "three": {
+        "long": 1,
+        "words": 1
+    },
+    "three-hours": {
+        "wife": 1
+    },
+    "thrills": {
+        "through": 1
+    },
+    "throne": {
+        "where": 1
+    },
+    "through": {
+        "my": 1
+    },
+    "throughout": {
+        "the": 1
+    },
+    "thus": {
+        "?\n": 1,
+        "bescreen'd": 1,
+        "forsworn": 1
+    },
+    "thy": {
+        "bent": 1,
+        "black": 1,
+        "close": 1,
+        "company": 1,
+        "father": 2,
+        "foot": 1,
+        "gracious": 1,
+        "hands\n": 1,
+        "heart": 2,
+        "lips": 2,
+        "long-experienc": 1,
+        "love": 1,
+        "mother": 1,
+        "name": 3,
+        "name\n": 1,
+        "news": 2,
+        "purpose": 1,
+        "suit": 1,
+        "three-hours": 1,
+        "tongue\n": 1,
+        "wisdom": 1,
+        "word": 1,
+        "years": 1
+    },
+    "thyself": {
+        "though": 1
+    },
+    "till": {
+        "i": 1,
+        "it": 1,
+        "strange": 1,
+        "then": 1,
+        "twelve\n": 1
+    },
+    "time": {
+        "\n": 2,
+        "that": 1,
+        "thou": 1,
+        "what": 1
+    },
+    "timeless": {
+        "end": 1
+    },
+    "times": {
+        "?": 1,
+        "faster": 1,
+        "good": 1
+    },
+    "title": {
+        "romeo": 1
+    },
+    "to": {
+        "a": 1,
+        "an": 1,
+        "another": 2,
+        "answer": 1,
+        "be": 6,
+        "be\n": 1,
+        "bear": 1,
+        "beg": 1,
+        "cease": 1,
+        "chide": 1,
+        "climb": 1,
+        "come": 1,
+        "comfort": 1,
+        "die": 1,
+        "die\n": 1,
+        "dispraise": 1,
+        "do": 2,
+        "earth": 1,
+        "earth\n": 1,
+        "fall": 1,
+        "furnish": 1,
+        "give": 1,
+        "have": 2,
+        "hear": 2,
+        "help": 2,
+        "high": 1,
+        "him": 2,
+        "joy": 1,
+        "know": 1,
+        "laurence'": 1,
+        "light": 1,
+        "like": 1,
+        "live": 1,
+        "lose": 1,
+        "lure": 1,
+        "make": 3,
+        "mantua": 1,
+        "me": 3,
+        "me\n": 1,
+        "move": 1,
+        "my": 9,
+        "myself": 1,
+        "no": 1,
+        "palm": 1,
+        "prison": 1,
+        "redeem": 1,
+        "repent": 1,
+        "return": 1,
+        "romeo": 1,
+        "romeo's": 1,
+        "say": 1,
+        "shame": 1,
+        "sinners'": 1,
+        "sit": 1,
+        "smile": 1,
+        "speak": 3,
+        "such": 1,
+        "take": 1,
+        "that": 1,
+        "the": 4,
+        "thee": 5,
+        "these": 1,
+        "thy": 1,
+        "what": 1,
+        "whose": 1,
+        "wish": 1,
+        "woe": 1,
+        "woo": 1,
+        "wreak": 1,
+        "you": 4,
+        "your": 2
+    },
+    "to-morrow": {
+        "\n": 2,
+        "?\n": 1,
+        "morning": 1,
+        "will": 1
+    },
+    "to-night": {
+        "\n": 2,
+        "?\n": 1,
+        "for": 1
+    },
+    "toad": {
+        "chang'd": 1
+    },
+    "together": {
+        "with": 1
+    },
+    "told": {
+        "have": 1
+    },
+    "tomb": {
+        "\n": 2
+    },
+    "tongue": {
+        "more": 1,
+        "shall": 1
+    },
+    "tongue's": {
+        "utterance": 1
+    },
+    "too": {
+        "\n": 2,
+        "early": 1,
+        "fond": 1,
+        "i": 1,
+        "late": 1,
+        "like": 1,
+        "much": 2,
+        "quickly": 1,
+        "rash": 1,
+        "sudden": 1,
+        "unadvis'd": 1
+    },
+    "took": {
+        "\n": 1
+    },
+    "torment": {
+        "me": 1
+    },
+    "torn": {
+        "out": 1
+    },
+    "torture": {
+        "should": 1
+    },
+    "touch": {
+        "\n": 1
+    },
+    "towards": {
+        "phoebus'": 1
+    },
+    "tower": {
+        "\n": 1
+    },
+    "treacherous": {
+        "revolt\n": 1
+    },
+    "tree": {
+        "\n": 1
+    },
+    "tributary": {
+        "drops": 1
+    },
+    "tried": {
+        "a": 1
+    },
+    "true": {
+        "\n": 1,
+        "heart": 1,
+        "honour": 1,
+        "knight\n": 1,
+        "love": 2,
+        "love's": 1
+    },
+    "true-love": {
+        "passion": 1
+    },
+    "trumpet": {
+        "sound": 1
+    },
+    "trust": {
+        "me": 1
+    },
+    "truth": {
+        "and": 1,
+        "fair": 1
+    },
+    "tune": {
+        "\n": 1
+    },
+    "turn": {
+        "to": 1
+    },
+    "twain": {
+        "\n": 1
+    },
+    "twenty": {
+        "years": 1
+    },
+    "twisted": {
+        "gyves": 1
+    },
+    "two": {
+        "are": 1
+    },
+    "tybalt": {
+        "dead": 1,
+        "from": 1,
+        "lies": 1,
+        "romeo": 1,
+        "stay": 1,
+        "would": 1,
+        "yet": 1
+    },
+    "tybalt's": {
+        "blood": 1,
+        "dead": 1,
+        "death": 2,
+        "death\n": 1
+    },
+    "tybalts": {
+        "tybalt's": 1
+    },
+    "tyrant": {
+        "fiend": 1
+    },
+    "unaccustom'd": {
+        "cause": 1
+    },
+    "unadvis'd": {
+        "too": 1
+    },
+    "universal": {
+        "earth": 1
+    },
+    "unknown": {
+        "and": 1
+    },
+    "unless": {
+        "that": 1,
+        "thou": 1
+    },
+    "unmann'd": {
+        "blood": 1
+    },
+    "unpleasing": {
+        "sharps": 1
+    },
+    "unseen": {
+        "\n": 1
+    },
+    "unstain'd": {
+        "wife": 1
+    },
+    "untalk'd": {
+        "of": 1
+    },
+    "unwieldy": {
+        "slow": 1
+    },
+    "up": {
+        "so": 1,
+        "sum": 1,
+        "the": 1,
+        "those": 1,
+        "to": 1,
+        "with": 1
+    },
+    "upon": {
+        "a": 2,
+        "his": 2,
+        "my": 1,
+        "receipt": 1,
+        "so": 1,
+        "the": 2
+    },
+    "us": {
+        "\n": 1,
+        "affray": 1
+    },
+    "use": {
+        "in": 1
+    },
+    "utterance": {
+        "yet": 1
+    },
+    "variable": {
+        "\n": 1
+    },
+    "vault": {
+        "\n": 1,
+        "an": 1
+    },
+    "venge": {
+        "my": 1
+    },
+    "very": {
+        "like\n": 1
+    },
+    "vex'd": {
+        "\n": 1
+    },
+    "vial": {
+        "\n": 1
+    },
+    "victory": {
+        "by": 1
+    },
+    "vile": {
+        "earth": 1,
+        "matter\n": 1
+    },
+    "villain": {
+        "\n": 1,
+        "and": 1,
+        "cousin": 1,
+        "didst": 1,
+        "madam": 1
+    },
+    "voice": {
+        "doth": 1
+    },
+    "voices": {
+        "too": 1
+    },
+    "vowel": {
+        "'i'": 1
+    },
+    "wake": {
+        "before": 1,
+        "shall": 1
+    },
+    "waking-": {
+        "what": 1
+    },
+    "walk": {
+        "in": 1
+    },
+    "walls": {
+        "are": 1
+    },
+    "wanton's": {
+        "bird": 1
+    },
+    "ware": {
+        "\n": 1
+    },
+    "warm": {
+        "\n": 1,
+        "youthful": 1
+    },
+    "was": {
+        "bad": 1,
+        "ever": 1,
+        "i": 1,
+        "not": 1,
+        "the": 2,
+        "ware": 1,
+        "woe": 1,
+        "worser": 1
+    },
+    "wash": {
+        "they": 1
+    },
+    "way": {
+        "to": 1
+    },
+    "ways": {
+        "or": 1
+    },
+    "we": {
+        "call": 1,
+        "have": 1,
+        "meet": 1,
+        "shall": 2
+    },
+    "weal": {
+        "or": 1
+    },
+    "wealth": {
+        "\n": 1
+    },
+    "wear": {
+        "them": 1
+    },
+    "wedding": {
+        "bed": 2
+    },
+    "week": {
+        "or": 1
+    },
+    "weep": {
+        "for": 1,
+        "i": 1,
+        "the": 1,
+        "with": 1
+    },
+    "well": {
+        "\n": 3,
+        "do": 1,
+        "in": 1,
+        "thou": 2,
+        "where": 1
+    },
+    "were": {
+        "dead-\n": 1,
+        "he": 1,
+        "to": 1
+    },
+    "what": {
+        "a": 1,
+        "are": 1,
+        "becomed": 1,
+        "day": 1,
+        "devil": 1,
+        "dost": 1,
+        "hadst": 1,
+        "i": 3,
+        "if": 2,
+        "is": 2,
+        "man": 1,
+        "must": 1,
+        "news": 1,
+        "o'clock": 1,
+        "of": 1,
+        "satisfaction": 1,
+        "say'st": 1,
+        "says": 3,
+        "should": 1,
+        "storm": 1,
+        "thou": 2,
+        "time": 1,
+        "tongue": 1,
+        "unaccustom'd": 1,
+        "villain": 1,
+        "with": 1
+    },
+    "what's": {
+        "he": 2,
+        "here": 1,
+        "in": 1,
+        "montague": 1
+    },
+    "when": {
+        "he": 1,
+        "i": 5,
+        "next": 1,
+        "she": 1,
+        "theirs": 1,
+        "thou": 3,
+        "we": 1
+    },
+    "where": {
+        "and": 1,
+        "as": 1,
+        "bloody": 1,
+        "echo": 1,
+        "for": 1,
+        "honour": 1,
+        "i": 2,
+        "is": 5,
+        "serpents": 1,
+        "should": 1,
+        "tybalt": 1
+    },
+    "wherefore": {
+        "?\n": 1,
+        "art": 1,
+        "villain": 1,
+        "weep": 1
+    },
+    "which": {
+        "doth": 1,
+        "he": 1,
+        "is": 3,
+        "mannerly": 1,
+        "modern": 1,
+        "she": 1,
+        "ten": 1,
+        "the": 3,
+        "thou": 1,
+        "we": 1,
+        "well": 1,
+        "you": 1
+    },
+    "whip": {
+        "you": 1
+    },
+    "whiter": {
+        "than": 1
+    },
+    "who": {
+        "calls": 1,
+        "is": 1,
+        "is't": 1,
+        "thou": 1
+    },
+    "whom": {
+        "you": 1
+    },
+    "whose": {
+        "direction": 1,
+        "foul": 1
+    },
+    "why": {
+        "dost": 1,
+        "followed": 1,
+        "i": 1,
+        "look'st": 1,
+        "she": 1
+    },
+    "wicked": {
+        "fiend": 1
+    },
+    "wife": {
+        "\n": 1,
+        "have": 1,
+        "to": 1
+    },
+    "will": {
+        "?\n": 1,
+        "be": 3,
+        "come": 1,
+        "confess": 1,
+        "do": 1,
+        "i": 2,
+        "kiss": 1,
+        "make": 1,
+        "murther": 1,
+        "not": 4,
+        "take": 1,
+        "you": 1
+    },
+    "wilt": {
+        "lie": 1,
+        "not": 2,
+        "perform": 1,
+        "say": 1,
+        "swear": 1,
+        "thou": 1,
+        "woo": 1
+    },
+    "wind-swift": {
+        "cupid": 1
+    },
+    "window": {
+        "let": 1
+    },
+    "wings": {
+        "\n": 1,
+        "of": 1
+    },
+    "wink": {
+        "and": 1
+    },
+    "winning": {
+        "match": 1
+    },
+    "wisdom": {
+        "thou": 1
+    },
+    "wish": {
+        "but": 1,
+        "he": 1,
+        "me": 1
+    },
+    "with": {
+        "a": 6,
+        "above": 1,
+        "all": 2,
+        "dead": 1,
+        "him\n": 1,
+        "hunt's-up": 1,
+        "loathsome": 1,
+        "me": 1,
+        "me-": 1,
+        "much": 1,
+        "my": 1,
+        "night": 1,
+        "night\n": 1,
+        "other": 1,
+        "patience": 1,
+        "reeky": 1,
+        "repetition": 1,
+        "roaring": 1,
+        "romeo": 1,
+        "so": 1,
+        "some": 1,
+        "tears": 1,
+        "that": 1,
+        "the": 1,
+        "this": 1,
+        "thy": 1,
+        "treacherous": 1,
+        "you": 1
+    },
+    "withal": {
+        "\n": 1
+    },
+    "within": {
+        "\n": 2,
+        "'juliet": 1,
+        "dear": 1,
+        "my": 1
+    },
+    "without": {
+        "fear": 1,
+        "that": 1
+    },
+    "woe": {
+        "\n": 2,
+        "delights": 1,
+        "enough": 1,
+        "sound": 1
+    },
+    "wolvish-ravening": {
+        "lamb": 1
+    },
+    "won": {
+        "\n": 1
+    },
+    "wonder": {
+        "at": 1
+    },
+    "woo": {
+        "\n": 1,
+        "but": 1
+    },
+    "word": {
+        "\n": 1,
+        "'banished": 1,
+        "of": 1,
+        "there": 1,
+        "to-morrow": 1,
+        "yet": 1
+    },
+    "word's": {
+        "death": 1
+    },
+    "words": {
+        "\n": 1,
+        "can": 1,
+        "dear": 1,
+        "would": 1
+    },
+    "work": {
+        "at": 1
+    },
+    "world": {
+        "\n": 2,
+        "they": 1,
+        "will": 1
+    },
+    "worser": {
+        "than": 1
+    },
+    "worship": {
+        "to": 1
+    },
+    "worth": {
+        "but": 1
+    },
+    "would": {
+        "a": 1,
+        "bandy": 1,
+        "be": 1,
+        "forget": 1,
+        "have": 4,
+        "i": 3,
+        "it": 1,
+        "none": 1,
+        "not": 2,
+        "smell": 1,
+        "temper": 1,
+        "they": 1,
+        "thou": 1,
+        "were": 1,
+        "whip": 1
+    },
+    "wounds": {
+        "with": 1
+    },
+    "wreak": {
+        "the": 1
+    },
+    "wring": {
+        "thy": 1
+    },
+    "wrong": {
+        "your": 1
+    },
+    "years": {
+        "and": 1,
+        "the": 1,
+        "till": 1
+    },
+    "yellow": {
+        "chapless": 1
+    },
+    "yet": {
+        "and": 1,
+        "but": 1,
+        "doth": 1,
+        "enjoy'd": 1,
+        "i": 4,
+        "if": 1,
+        "let": 1,
+        "methinks": 1,
+        "near": 1,
+        "no": 2,
+        "not": 1,
+        "she": 1,
+        "tell": 1,
+        "thou": 1
+    },
+    "yielding": {
+        "to": 1
+    },
+    "yond": {
+        "gentleman": 1,
+        "light": 1,
+        "pomegranate": 1
+    },
+    "yonder": {
+        "tower": 1
+    },
+    "you": {
+        "\n": 3,
+        "and": 2,
+        "are": 1,
+        "at": 2,
+        "could": 1,
+        "do": 2,
+        "fiery-footed": 1,
+        "for": 2,
+        "go": 1,
+        "have": 3,
+        "kiss": 1,
+        "know": 1,
+        "let": 1,
+        "mistaking": 1,
+        "on": 1,
+        "tell": 1,
+        "that": 1,
+        "think": 1,
+        "to": 1
+    },
+    "your": {
+        "back": 1,
+        "behests": 1,
+        "consent": 1,
+        "face": 1,
+        "hand": 1,
+        "hands": 1,
+        "ladyship": 1,
+        "mother": 1,
+        "native": 1,
+        "pardon": 1,
+        "tributary": 1,
+        "will": 1
+    },
+    "youthful": {
+        "blood": 1,
+        "lord": 1
+    }
+}
