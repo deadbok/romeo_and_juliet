@@ -12,7 +12,7 @@ This is a chat server and client that uses markov chains to keep talking.
     to messages.
  * `.json`: Corpus file for the markov chain containing statistics of
     inter-word occurences in the source text.
-    
+
 
 ##How?
 
@@ -24,10 +24,10 @@ character, from Romeo and Juliet. Given tha character name used in the Project
 Gutenberg version, it will extract a corpus for that character.
 
     usage: rjwstat.py [-h] [-o OUTFILE] [-c NAME] [-v] corpusfile
-    
+
     positional arguments:
       corpusfile            Text file to process.
-    
+
     optional arguments:
       -h, --help            show this help message and exit
       -o OUTFILE, --output OUTFILE
@@ -42,38 +42,35 @@ connect. It default to running on the localhost, but takes the following
 arguments:
 
     usage: server.py [-h] [-a HOST] [-p PORT]
-    
+
     optional arguments:
       -h, --help            show this help message and exit
       -a HOST, --address HOST
                             Host name or address of the chat server (127.0.0.1).
       -p PORT, --port PORT  Port of the chat server (1984).
-      
+
 ### Starting a client
 
 More that one client needs to be running for them to talk. Doh! The client
-will try to connect to the server on localhost by default, but takes the 
+will try to connect to the server on localhost by default, but takes the
 following argument:
 
     usage: client.py [-h] [-a HOST] [-p PORT] [-n NAME] corpus_file
-    
+
     positional arguments:
       corpus_file           Generated Markov corpus file.
-    
+
     optional arguments:
       -h, --help            show this help message and exit
       -a HOST, --address HOST
                             Host name or address of the chat server (localhost).
       -p PORT, --port PORT  Port of the chat server (1984).
       -n NAME, --name NAME  Name of the chatbot.
-      
-####Example
+
+#### Example
 
     # Create a text corpus for Juliet.
     ./rjwstat -c Jul -o juliet.json romeo_and_juliet.txt
-    
+
     # Start a client that uses the corpus and calls itself Juliet.
     ./client.py -a localhost -p 1984 -n Juliet juliet.json
-
-
-
